@@ -1,0 +1,795 @@
+comment
+"Sorry for the delay :( But I had a product launch, for which I had to spend most of my time in the office. I am back, will try to come with 1/2 videos daily now"
+UnderStood
+understood
+Stiverrrrrrrrrrrrrrrrrrrrrr❤
+At 5:05 you say if i is zero we need a not check for the left what it has only one element ?  Justify ur statement why the fuck this  problem is treated as sorted i couldn't figure
+Why the fuck is this binary search? Why should we take this as binary search can anyone explain wasted a week already can anyone explain this thing
+understood
+Understood
+So someone please clear my doubt binary search is for sorted elements and here the elements might or might not be sorted so will the results be right in all cases if true then why we say BS is applied on sorted elements?
+understood
+us
+Understood
+Understood
+Understood
+"@striver, does your solution work for this case [1,2,3,2,4,5,6,7,8,9,10,11,13,12] or [1,2,3,4,5,6,7,8,9,10,13,12,11]"
+Understood ❤
+understand
+Was able to do it myself 😮 thnx for building up my logical thinking ❤
+"int main()
+{
+ int n;
+  cout<<""enter n:"";
+  cin>>n;
+ int a[n];
+for(int i=0;i<n;i++)
+{
+ cin>>a[i];
+}
+if(n==1)  cout<<a[0];
+else{
+if(a[0]>a[1])  cout<<a[0];
+else if(a[n-1]>a[n-2])  cout<<a[n-1];
+else{ int i=1, j=n-2;
+       while(i<j)
+{
+   if(a[i+1]<a[i]) 
+   { cout<<a[i];
+    break;
+    }
+   if(a[j-1]<a[j])  
+{
+  cout<<a[j];
+break;
+}
+i++;
+j--;
+}
+ This is also good optimal linear approach"
+"Bs-9 Done ✅
+Weekend 27 July 2024
+7:43 pm"
+"How does this work on input “ 1 3 2 4 5 6 7 "" ?
+Middle =4
+4>2 so it won’t look for left side .
+But in right there is no peak element 
+
+Could anyone help to understand"
+"This was pretty easy, finally solved it on my own."
+Tried to code it by myself and it's working fine 🙂 but the only problem is it's returning 7 7 and only 7 no matter what changes you make it will give you seven 😢😐
+Thank you
+understood
+understood
+striver is THE BEST !
+Understood :)
+Loved it
+Nice explanation on that hidden test case
+how can we all the peaks using binary search
+What if we need to find all the peaks?
+understood!!!!
+UNDERSTOOD
+"Compiling your Code...
+> Success!
+Running Test Cases...
+> TestCase - Easy Failed
+Wrong Answer
+Your program's output doesn't match the expected output. You can try testing your code with custom input and try putting debug statements in your code.
+Your submission failed for the following input
+Arg 1: An Integer Array, For e.g [1,2,3]
+[1,1000000000,1000000000]
+Test As Custom Input
+The expected return value:
+1000000000
+Your function returned the following:
+-1
+Final Verdict
+> Wrong Answer
+
+Failing for input - [1,1000000000,1000000000] can someone help me Identify the error(Note: the code is same as mentioned in this video)"
+"we can see sleep in his eyes, but still he is doing.
+crazy😴"
+understood
+Hawa tak nahi lag rahi hai
+understood
+Understood.
+"But what if question is [1,2,1,3,5,6,4] ,   it will eliminate left half and go to right where peak is not there"
+Reversal of a peak is called trough. 30:29
+"int start = 0;
+    int end = n - 1;
+    
+    while (start < end) {
+        int mid = start + (end - start) / 2;
+        
+        if (arr[mid] < arr[mid + 1]) {
+            start = mid + 1;
+        }
+        else {
+            end = mid;
+        }
+    }
+    
+    return start;  (how about this ,easy and covers every edge case)"
+"3:42 at last there are 2 peak elements
+
+5 and 3"
+Understood boss!!
+thank you
+awesome
+"for this [4,1,2,3,3]?"
+The man who is making every CSE student's career bright
+If we are to return an array of indices where peaks are found(all peak) can we still apply binary search by making some modifications and applying if else checkups. 🤔
+undertsood
+jai ho...
+understood
+Bestest explanation ❤
+"How does this algo works for this test case.
+1 23 2 3 4 5 6 7 8 9
+we would be going for right half because this condition(arr[m-1]>arr[m]) failed.
+I think the question is incorrect."
+understood
+Amazing explanation Striver my man! Hats off to you for all your hard work for the community.
+very good explanation .
+understood
+"Thanks striver I completed all your sheets , like twice , they boost my confidence , before watching your solution , i try every question for 30 mins , and regardless i am able to solve it or not , i watch your video for better understanding and side by side mark improtance of question and make notes for revision"
+NICE SUPER EXCELLENT MOTIVATED
+An amazing question learning new patterns of conditions in binary search
+"Hii Striver , I think if it chooses else part then it will go towards either left part or right one but in the end we will end up having one element as the peak one. Don't understand on that part. Can you please explain this??"
+what happens when mid mid+1 and mid-1 element are same and hence peak can be on any side ? is that test case not included on leetcode where there is only one peak and mid mid+1 and mid-1 are same
+Matrix movie vibes🍿
+US
+Strivers Sir You Are The Best
+Excellent explanation
+Understood !! 😎😎
+"3:27 Here, two peak elements 3 and 5."
+understood
+US!
+Understood
+Didn't even look for completion time of the video!!!.....So that much interesting your videos are❤
+understood
+understood
+"/ 
+    /\        /(mid)
+  /    \    /
+/        \/
+if my mid is in last line i.e increasing so the solution will be like the peak might be coming so it will eliminate left. now there is no peak at right how this is handling this case?"
+"What is the solution for this array {1,2,1,3,5,6,7}. Does this code work on this array with only one peak element. Please answer if anyone know the answer"
+plssssssss sir baki topic ki  bhi videos la do
+understood
+Understood Bhaiya
+Understood
+"after elimination one half how can you say the peak will be present at other half, there is a chance that that peak also present at eliminated half.. anyone can explain.."
+the extra afforts for the edgecases is appreciated! keep working on content like this...
+Understood👍
+Understood
+"Bhaiya your code will not give the correct output for this array nums[]={1,2,0,1,2,3,4,5,6,7}"
+understood
+"what is we have an array [2,2,2] what will be the peak here?"
+Thanks a lot Bhaiya
+BEST!
+Understood🫡
+"Hi Striver, this was an epic explanation. Hats off!
+
+However I think we can only check the left element of mid. If greater then eliminate right. Else eliminate left. No need for the other if condition.
+
+class Solution {
+public:
+    int findPeakElement(vector<int>& arr) {
+        
+        int n = arr.size();
+        if(n == 1) return 0;
+        if(arr[0] > arr[1]) return 0;
+        if(arr[n-1] > arr[n-2]) return n-1;
+
+        int low = 1;
+        int high = n - 2;
+        int mid;
+        
+        while(low <= high){
+            mid = low + (high - low)/2;
+
+            //Peak found
+            if(arr[mid-1] < arr[mid] && arr[mid] > arr[mid+1] )
+                return mid;
+
+            //mid-1 greater than mid, peak on left,eliminate right
+            if(arr[mid-1] > arr[mid]) 
+                high = mid - 1;
+            
+            //peak on right, eliminate left
+            else
+                low = mid + 1;
+        }
+
+        return mid;
+
+    }
+};"
+understood
+understood striver
+can anyone post me the code for 2 peaks
+Understood Striver :)
+at 21:15 correction*  if(arr[o] > arr[1]) return 0; the first index is the peak
+I don't think people can explain like this.
+Your explanation is crazy. You are really doing a very good job.
+"Understood, thank you."
+"How can we print all peak elements? Example - [1, 2, 1, 3, 5, 6, 4] where 2 and 6 are peaks and it only prints 6."
+understood
+US
+"This is the brute linear solution :
+class Solution {
+public:
+    int findPeakElement(vector<int>& nums) {
+        //Brute force:
+        int n = nums.size();
+        int ans = INT_MIN;
+        int peak_index = -1;
+        if(n==1) return 0;
+        for(int i = 0; i < n; i++){
+            if (nums[i] > ans) {
+                ans = nums[i];
+                peak_index = i;
+            }
+        }
+        return peak_index;
+    }
+};"
+"can we simply find the largest and return that index , it will also give the peak😜"
+Amazing explanation! thanks teacher :)
+"Understood,thanks striver for this amazing video."
+"it's a blessing that you are in youtube,  
+but on the other side , people are enjoying DSA now,  hence , competition is drastically increasing too."
+Understood
+understood\
+Understood
+God level ❤‍🔥
+"Firstly the brute force psudeo code will only for:
+ 1)  array which has one peak element. 
+2) array is in ascending order
+3) array is in descending order."
+Understood!! :)
+understood
+"while(low < high-1){
+            mid = (low+high)/2;
+            if(arr[mid]>arr[mid+1] && arr[mid]>arr[mid-1]) return arr[mid];
+            if(arr[mid+1]>arr[mid]) low = mid+1;
+            else high = mid-1;
+        }
+        if(arr[low]>arr[high]) return arr[low];
+        else return arr[high];
+initially came up with this solution, it was working and was accepted in leetcode"
+bro u are great...
+Understood
+tq undestood
+"int findpeak(vector<int>& a, int low, int high) {
+  int mid = (low + high) / 2;
+  if (low > high) {
+    return -1;
+  } else if ((a[mid - 1] < a[mid]) && (a[mid] > a[mid + 1])) {
+    return mid;
+  } else if (a[mid] > a[mid-1]) {
+    return findpeak(a, mid + 1, high);
+  } else {
+    return findpeak(a, low, mid - 1);
+  }
+}
+int findPeakElement(vector<int> &a) {
+  int n = a.size();
+  if (n == 0) {
+    return 0;
+  }
+  if (a[0] > a[1]) {
+    return 0;
+  }
+  if (a[n-1] > a[n-2]) {
+    return n-1;
+  }
+  return findpeak(a,1,n - 2);
+}
+
+my code working without change can you tell me why?"
+understood
+understood
+understood
+Understood Striver
+UnderStood 
+Thx you very very much
+Hey To use Binary Search Array should be sorted right but we are not sorting the array
+Understood !!!!!
+understood
+"NO ONE CAN TEACH LIKE STRIVER, HE GIVES HIS 100% to his lectures. he want to teach , he compleltly go into the state of teaching , like with full FOCUS & DEDICATION  . he enjoy to teach . 
+and all of this FREE OF COST          ,  LEGEND AKA RAJ VIKRAMDITYA BHAIYA (STRIVER BHAI OP )
+❤"
+"Hi, your this code gives tle on submission for last test case on code studio platform now"
+Understood
+"00:04 Find the peak element in an array
+02:16 Identifying peak elements using the concept of infinity assumptions.
+06:42 Peak element finding in a sorted array using binary search
+09:03 Binary search to find peak element
+13:59 Identifying peak in decreasing curve
+16:22 Dealing with the cases of the first and last elements as peak elements.
+20:38 Finding peak element in an array using binary search
+22:54 In a decreasing curve, the mid element is greater than the right element.
+27:08 Binary search can efficiently find the peak element
+29:08 Algorithm to find peak element in an array"
+💝
+This code will not find peak if all the array element is same.it may run in a infinte loop.so element must have some different elements so this code will work
+"while going through your tutorial i am just taking hint  for some question  how to  eliminate  left or right  array  rest of the code i am doing myself?
+int findPeakElement(vector<int> &arr) {
+          int n= arr.size();
+         if(n==1){
+             return 0; 
+         }
+         if(arr[0]>arr[1]){
+             return 0;
+         }
+         if(arr[n-1]>arr[n-2]){
+             return n-1;
+         }
+     
+
+     int low =1;
+     int high=n-1;
+     int mid= low+(high-low)/2;
+     while(low<=high){
+          if(arr[mid]>arr[mid-1]&& arr[mid]>arr[mid+1]){
+              return mid;
+          }
+         else  if(arr[mid]>arr[mid-1] && arr[mid]<arr[mid+1] ){//condition  for checking in which slope  and eliminate the array
+              low=mid+1;
+          }
+          else{
+              high=mid-1;
+          }
+          mid= low+(high-low)/2;
+     }
+    
+}
+I can bet this is the best tutorial for  dsa."
+if we give last condition (else high = mid -1;) that will work for both 1 peak element and also multi peak element.
+thanks striver understood everything
+Thank you Bhaiya
+understood
+understood
+Thank you striver 😇🙌
+"There is a problem in this test case 1,5,3,3,2,1,0  and 1,2,3,3,5,1"
+good one
+thanks sir
+Great Playlist . 👍
+Understood
+"If the array contains a continuous peak ,i.e, same values repeating as peak like (1,2,2,1) we can use the condition of (arr[mid]>=arr[mid-1] && arr[mid]>=arr[mid+1]) this will handle a case like this"
+understood
+Love ur apoorach sir 😁
+Kya question samjhaya hai bhai 👍👍👍
+God level content 🥵 🔥🔥
+"this code don't work for input 2,2 
+why?"
+Understood
+god level
+"Understood very well sir!!
+No words for your appeciation bhaiya"
+"Mostly in binary search problems, the main idea is to think about the shrinking logic which comes from various test cases/ edge cases.
+Can anyone tell how to think of diverse and effective edge cases or its just practice?"
+"Will the if condition work for the below scenario: [10 20 30 1 2 3 4 5 6] ? Here the peak lies on the left half, but since a[mid] > a[mid-1] is true, we are eliminating the left half."
+is there any way to find all the peaks using binary??
+i will give you big fat like 👍👍
+Understood
+"Commenting Understood is just a simple thing for your wonderful explanation !!!
+Thank you So much for your lectures Striver"
+you are really great one ..
+"int n=nums.size();
+        if(n==1) return 0;
+        else 
+        {
+            if(nums[0]>nums[1]) return 0;
+            if(nums[n-1]>nums[n-2]) return n-1;
+        }
+        int low=1;
+        int high=n-2;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+
+            if(nums[mid]>nums[mid-1] && nums[mid]>nums[mid+1])
+            {
+                return mid;
+            }
+            if(nums[mid]<nums[mid-1])
+            {
+                high=mid-1;
+            }
+            else
+            {
+                low=mid+1;
+            }
+
+        }
+        return -1;"
+"only 49/50 test cases are passing on coding ninjas, does anyone have any idea, why it might be happening?"
+Understood
+understood
+"Thankyou striver, still maintaining that low=m+1 and high =m-1 thing which makes it super easy to understand!!"
+solved by my own thanks a lot Striver Bro keep spreading the knowledge
+What if i want to find the maximum peak element ?
+In the last example peak element will be 3 instead of 5 @3:34
+I was thinking about using binary search but because the array was not sorted I was hesitant
+Understood .best Explanation 👍
+"How about if we have duplicates, then simply do that low++ and high-- ?"
+great great
+understood
+Dude you're a god🙏
+"#include<bits/stdc++.h>
+using namespace std;
+
+int findPeak(int arr[], int n) {
+    int s = 0;
+    int e = n-1;
+    if(n==1) return 0;
+    if(arr[0] >arr[1]) return 0;
+    if(arr[n-1]> arr[n-2]) return n-1;
+    while(s <= e) {
+        int mid = s+(e-s)/2;
+        if(arr[mid] > arr[mid+1] && arr[mid] > arr[mid-1]) {
+            return mid;
+        }
+        else if(arr[s] <= arr[mid]) {
+            s = mid+1;
+        }
+        else{
+            e = mid-1;
+        }
+    }
+}
+
+int main() {
+    int arr[] = {1,2,3,7,1,2};
+    cout<<findPeak(arr, 5);
+    return 0;
+}
+this is running fine to.."
+at the end of video i am just surprised.......understood very clearly.....thankssss a lottttt striver......
+Well understood.
+"What if all the elements are equal..i.e., the same?"
+What if we have to find the maximum peak element out of all peak elements? Can we still do it in O(log  n) ?
+absolute beauty of a question
+"understood, you are BEST !"
+far better than other vedio
+luv the way u teach
+UNDERSTOOD 👌👌👌👌👏👏👏👏
+understood 😇
+understood
+Thank you.
+"This is what is Striver saying about reducing search space from 1 to n-2, else code becomes clumsy :- ( see how long and bad looking my code is!! )
+
+class Solution {
+public:
+    int findPeakElement(vector<int>& nums) {
+        
+        if(nums.size()==1)
+            return 0;
+        
+        int n = nums.size();
+        int lo=0,hi=nums.size()-1;
+        int ans=0;
+        
+        while(lo<=hi)
+        {
+            int mid = lo + (hi-lo)/2;
+            
+            if(mid>0 && mid<n-1)
+            {
+                if(nums[mid]>nums[mid+1] && nums[mid]>nums[mid-1])
+                {
+                    ans=mid;
+                    break;
+                }
+                else if(nums[mid-1]>nums[mid])
+                    hi=mid-1;
+                
+                else
+                    lo=mid+1;
+            }
+            
+            else if(mid==0)
+            {
+                if(nums[0]>nums[1])
+                    ans=0;
+                
+                else
+                    ans=1;
+                
+                break;
+                
+            }
+            
+            else if(mid==n-1)
+            {
+                if(nums[n-1]>nums[n-2])
+                    ans=n-1;
+                
+                else
+                    ans=n-2;
+                
+                break;
+            }
+            
+        }
+        
+        
+        return ans;  
+    }
+};"
+Understood
+But what if we need to find all the peak elements. then linear search is the only option I think 🤔🤔🤔🤔🤔🤔or their any better algo
+Understood
+Striver if we need to find the maximum peek then what we can do?
+Understood!
+Mind blowing video..
+Understood !!!!!!!!!!!!!!!!!!!!!
+understood
+Understood ❤
+Understood . Thanks a lot.
+us
+understood
+"wow, the reversal peak, beautiful"
+understood
+"Hey Striver, Your videos are pure gem. Certainly the best DSA course on the planet. Keep going. God Bless You!"
+Filled with full confidence after watching ur videos.
+Fantastic teaching...!
+Understood
+code accepted on coding ninjus but not leetcode.
+understood
+Understood!!
+Understood!!
+Done
+Understoood👍
+Legendary Boss
+Understood perfectly!!!!
+SUPERBBBB Explanation! Thankyou so much for your great efforts.
+"there is also a brute force approach using stl ....that is we know whatever the case is.... the maximum element of the vector is always a peak element...so we just return the index of the max element....
+int ind = max_element( nums.begin(), nums.end() ) - nums.begin() ;
+
+
+ig"
+understood
+Thank You Striver..Understood everything🙂
+Minmum peak element??
+Understood! 😁
+shukriya habibi ..
+great content no one teach like this atleast for free
+TO AVOID THAT INFINITE LOOP CONDITION WE CAN JUST CHANGE THE LAST IF CONDITION TO : if(a[mid] < a[mid-1]) { .....} this will prevent the infinite loop
+Understood Sir.👌
+UNDERSTAND LIKE BUTTER
+US
+Understood
+Ap smjhao aur smjh  n aaaye aisa ho he nhi skta h..🙃🙃
+Understood
+Understood Very Well!
+Understood 😊
+Best explanation on the YouTube thank you soo much....each and every second of this video is informative.
+29:20 imp point
+Understood!
+"[1,1,1,1,1,2,1] how this will work for your code"
+understoodddd
+THe last one infinite loop example was very helpful to understand the problems condition clearly.
+3:20 here 3 is also peak
+understood
+Great video sir..thank u for saving us
+bhaiyaa please continue with the playlist placement is coming
+"Hey Striver , the above method did not worked for this array : {1,1,51,2,3,4,5,6,7,7} , it gave ""No Peak""."
+underStood
+here we have to find the maximum element from this array??
+US
+There are one mistake in the code when try solve problem on GFG then not pass all the cases the mistake is if(arr[n-1] >= arr[n-2]) return n-1; // use the equal sign also so that can pass all the cases and thank you so much to provide best content
+"DSA me bhaiyaa aap BAAP ho , ye sayad appko khud nahi pata , Love u bhaiya"
+"it is not working for [1,2,3,1]"
+"understood
+Thank you striver for such an amazing explanation..."
+amazing
+Bhaiya I solved this without seeing the video. Because i have learnt the concepts from your earlier videos. Thanks and LOTS of LOVE.
+understood
+❣️❣️
+what if all of the elements in the array is same?
+understood
+Understood
+@takeUforward What if i need the highest peak.. will this still be working..
+Lovely striver.
+Understood:)
+UNDERSTOOD SIR
+Understood :)
+Understood
+"bhaiiii
+"
+"int peakElement(int a[], int n)
+    {
+       // Your code here
+        if(n==1)
+            return 0;
+        if(a[0]>=a[1])
+            return 0;
+        if(a[n-1]>=a[n-2])
+            return n-1;
+        int low=1;
+        int high=n-2;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if((a[mid]>=a[mid-1]) && (a[mid]>=a[mid+1]))
+                return mid;
+            else if(a[mid]>a[mid-1])
+                low=mid+1;
+            else
+                high=mid-1;
+        }
+        return -1;
+    }
+
+
+GFG Solution"
+UNDERSTOOD
+Understood
+"iNSTEAD OF ADDING THE LAST CONDITION WE CAN CHANGE THE ABOE CONDITIONS TO :
+             else if (nums[mid] < nums[mid + 1])
+            {
+                low = mid + 1;
+            }
+            else if (nums[mid] < nums[mid - 1])
+            {
+                high = mid - 1;
+            }
+
+COMPLETE CODE:
+class Solution
+{
+public:
+    int findPeakElement(vector<int> &nums)
+    {
+        int n = nums.size();
+        if (n == 1)
+        {
+            return 0;
+        }
+        if (nums[0] > nums[1])
+        {
+            return 0;
+        }
+
+        if (nums[n - 1] > nums[n - 2])
+        {
+            return n - 1;
+        }
+
+        int low = 1;
+        int high = n - 2;
+        while (high >= low)
+        {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] > nums[mid + 1] && nums[mid] > nums[mid - 1])
+            {
+                return mid;
+            }
+            else if (nums[mid] < nums[mid + 1])
+            {
+                low = mid + 1;
+            }
+            else if (nums[mid] < nums[mid - 1])
+            {
+                high = mid - 1;
+            }
+        }
+        return 0;
+    }
+};"
+i have a request...please add this video to the A2Z sheetlist.
+Understood :)
+"heyy striver,You told us like I will provide python code ,but you didn't.."
+UNDERSTOOD
+i have solved these questions already so before but still i watch every video of you because i know there will be something different which ultimately enhance my code writing or intuition skills.
+30:29 valley 🙂
+understood
+How to find no of peaks present in array  using binary search ??
+GOD LEVEL INTUITION AND EXPLANATION STRIVERRR TYSM < 3!!!
+"sir, what will be peak element if all elements in array will be same eg {3,3,3}"
+Understood ❤
+"A small correction, in edge case at 21:30 return 0 would be there."
+Understood
+understood
+"If we change the condition to check middle as
+
+        if arr[middle] < arr[middle - 1]:
+            end = middle - 1
+
+        elif arr[middle] < arr[middle + 1]:
+            start = middle + 1
+
+Then the else part can be avoided"
+US
+❤❤❤
+++
+Understood!
+"but how can we get the maximum
+ peak element"
+the best about this video was the thinking process of how to arrive from linear to binary search in problems like this. execellent stuff.
+"1:35 In the example arrays listed in this timestamp, I couldn't see a an array like [5,5] where there is no peak element.
+
+23:30 There won't be a peak no matter which array they give even with hypothetical -inf on both ends of  array for the array is a flat line.
+
+26:33 You should have mentioned this in the beginning."
+Bro u are the most helpful person for all engineering  cse student 🧡❤
+"Was trying this for the past 2 days, couldn't solve it. Took 1 day break came back at it again with a fresh mind, could solve it in one go by myself. Thanks, your series instills such confidence in me always."
+"Understood! Super awesome explanation as always, thank you very much for your effort, and congrats for your product launch!! Is this idea used to find the derivative local maximum / minimum?"
+Very well explained. Understood
+"welcome back, waited for you every single day"
+"code for the same :-
+ int findPeakElement(vector<int>& arr) {
+        
+         int n = arr.size(); 
+        
+        //checking done for initial cases where finding and is very easy 
+        
+         if(n==1)            //edgecase1
+            return 0;
+        
+        if(arr[0] > arr[1])   //edgecase 2
+            return 0;
+        
+        if(arr[n-1] > arr[n-2])  //edgecase 3 
+            return n-1;
+        
+        
+        
+        // now apply bS on remaining part 
+        
+        int l = 1;
+        int r = n-2;
+       
+    
+      
+        
+       
+        
+        while(l<=r)    
+        {
+            
+            int mid = l +(r-l)/2;
+            
+            
+
+              
+              if(arr[mid]>arr[mid+1] && arr[mid]>arr[mid-1])
+              {
+                  return mid ;
+              }
+            
+              else if  (arr[mid]>arr[mid-1])        //mid on the increasing path that means our ans will be in right side 
+                 l = mid+1;
+               else                                // mid is on the decreasing path  peak will be on left side 
+                  r = mid -1;
+              
+          }
+          
+          
+                
+    
+        
+       
+          return -1;
+            
+        
+        
+        
+    }"
+Tysm first time i got clear cut intution of finding the peak element :) tysm again UNDERSTOOD EVERYTHING:)
+@takeforward thanks
+Understood Dada
+❤❤❤
+was waiting for these past two weeks and you showed up with another awesome explanation! Thanks dada ❤
+bhaia series kbtk complete hogi??
+"Sorry for the delay :( But I had a product launch, for which I had to spend most of my time in the office. I am back, will try to come with 1/2 videos daily now"
+Thank you bhaiya ❤
+Sir please complete as soon as possible please sir 🙏🙏😢
+👍👍👍👍👍
+"Damn, was eagerly waiting for this!!!"
+1st comment
+❤🎉

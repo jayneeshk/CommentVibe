@@ -5,7 +5,6 @@ import time
 import os
 from dotenv import load_dotenv
 load_dotenv()
-
 api_key = os.getenv('YOUTUBE_API_KEY')
 # API_KEY = 'api_key'
 youtube = build('youtube', 'v3', developerKey=api_key)
@@ -38,7 +37,7 @@ def get_video_comments(video_id, max_results=100):
 
     return comments
 
-video_ids = ['cXxmbemS6XM']  # Replace with actual video IDs
+video_ids = ['BJKcapuKPB4']  # Replace with actual video IDs
 
 all_comments = []
 

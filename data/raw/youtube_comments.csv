@@ -1,795 +1,1008 @@
 comment
-"Sorry for the delay :( But I had a product launch, for which I had to spend most of my time in the office. I am back, will try to come with 1/2 videos daily now"
-UnderStood
-understood
-Stiverrrrrrrrrrrrrrrrrrrrrr❤
-At 5:05 you say if i is zero we need a not check for the left what it has only one element ?  Justify ur statement why the fuck this  problem is treated as sorted i couldn't figure
-Why the fuck is this binary search? Why should we take this as binary search can anyone explain wasted a week already can anyone explain this thing
-understood
-Understood
-So someone please clear my doubt binary search is for sorted elements and here the elements might or might not be sorted so will the results be right in all cases if true then why we say BS is applied on sorted elements?
-understood
-us
-Understood
-Understood
-Understood
-"@striver, does your solution work for this case [1,2,3,2,4,5,6,7,8,9,10,11,13,12] or [1,2,3,4,5,6,7,8,9,10,13,12,11]"
-Understood ❤
-understand
-Was able to do it myself 😮 thnx for building up my logical thinking ❤
-"int main()
-{
- int n;
-  cout<<""enter n:"";
-  cin>>n;
- int a[n];
-for(int i=0;i<n;i++)
-{
- cin>>a[i];
-}
-if(n==1)  cout<<a[0];
-else{
-if(a[0]>a[1])  cout<<a[0];
-else if(a[n-1]>a[n-2])  cout<<a[n-1];
-else{ int i=1, j=n-2;
-       while(i<j)
-{
-   if(a[i+1]<a[i]) 
-   { cout<<a[i];
-    break;
-    }
-   if(a[j-1]<a[j])  
-{
-  cout<<a[j];
-break;
-}
-i++;
-j--;
-}
- This is also good optimal linear approach"
-"Bs-9 Done ✅
-Weekend 27 July 2024
-7:43 pm"
-"How does this work on input “ 1 3 2 4 5 6 7 "" ?
-Middle =4
-4>2 so it won’t look for left side .
-But in right there is no peak element 
+Where can I find the full live performance?
+Какая красивая девушка! ❤
+My favorite song from Philippines
+Linda música.essa moça canta bem de mais 👍♥️
+SALAMA IDD MDL
+Singer name
+Singer name please. Original name
+Nice  voice 😊
+Hello everyone I'm from Bangladesh ❤️🇧🇩
+26-8-2023😂😂😂😂
+Happy ❤❤
+Hello everyone ❤ greetings from Cuba 🇨🇺🌈 god bless us
+Respect thank You Alan Walker Norway
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+"OUVE, O DIABO O CÃO CANTANDO..."
+😮 I love this  song
+So nice song I love much this song
+Hello everyone from Guatemala 🇬🇹 😊
+Hello south Africa 🇿🇦
+Alan Walker ❤❤❤
+Passe por una deprecion fuerte despues q me separe de mi mujer mi empresa entro em banca rota y me envolvi en el mindo de drogas 😢 4 anos depois estoy me recuperando gracias a Dios desperte de essa pesadilla y estoy recomensando
+Love ❤
+Wa are all unity together in 2024❤👊
+"This is the original voice 
+Editing"
+Sweetness l ❤you
+Love the music great job on the video
+Oh good ❤
+Gesticular enev ms liib
+Como se llama la cantante? Me encanta.
+Love you
+ນວຍຕາສາຍຍິມ
+Beautiful song
+"it's raining? ,, you sing very well"
+What a tremendous song! Love this song from Gambia.
+I love this song
+Who is Alain walker fan 2024 coz this song?
+Hermosa 🌷💟🌸😍
+🌷💪🪽🫂
+Una hermosa Melodía
+who watching in 2095
+Broh this song's melody will guide us now and forever i swear to God.  Are you agree with me?????
+❤❤❤❤❤🎉🎉🎉L
+❤❤❤❤❤😂🎉🎉🎉😂😂😂😂L❤❤❤❤❤❤❤ 0:50 ❤❤❤❤❤❤ 0:52 ❤❤❤❤❤❤❤❤ 0:56 ❤❤❤❤❤❤❤
+"I love all your songs and I wish to be ur friend,but the sad news is that I am in Ghana"
+❤❤❤🎉🎉🎉🎉
+Who are you l what to now
+Nezxt le el genius
+I'm watching
+grasias por poner mi Guatemala en alto cuando escuche esa cancion me salieron las lagrimas le seguire escuchando tus canciones
+Hello im from Uzbekistan
+Angel voice ariana❤
+Ukraine Kyiv loves you...❤❤❤❤❤
+I watching this video 11/8/2024😊and you ☺️
+🙋‍♂️🇲🇽
+She is my best singer I always feel your song and try to say it god bless you love you From.. Bangladesh  ❤
+❤❤❤❤❤❤
+Pretty voice
+Primeira vez ouvindo versão ao vivo.
+Remove the godamn mask
+"Que envidia me da por los que estuvieron allí, simplemente hermosa"
+"Guapísima, te amo"
+"Wow .....she is got it .
 
-Could anyone help to understand"
-"This was pretty easy, finally solved it on my own."
-Tried to code it by myself and it's working fine 🙂 but the only problem is it's returning 7 7 and only 7 no matter what changes you make it will give you seven 😢😐
-Thank you
-understood
-understood
-striver is THE BEST !
-Understood :)
-Loved it
-Nice explanation on that hidden test case
-how can we all the peaks using binary search
-What if we need to find all the peaks?
-understood!!!!
-UNDERSTOOD
-"Compiling your Code...
-> Success!
-Running Test Cases...
-> TestCase - Easy Failed
-Wrong Answer
-Your program's output doesn't match the expected output. You can try testing your code with custom input and try putting debug statements in your code.
-Your submission failed for the following input
-Arg 1: An Integer Array, For e.g [1,2,3]
-[1,1000000000,1000000000]
-Test As Custom Input
-The expected return value:
-1000000000
-Your function returned the following:
--1
-Final Verdict
-> Wrong Answer
+The voice 
 
-Failing for input - [1,1000000000,1000000000] can someone help me Identify the error(Note: the code is same as mentioned in this video)"
-"we can see sleep in his eyes, but still he is doing.
-crazy😴"
-understood
-Hawa tak nahi lag rahi hai
-understood
-Understood.
-"But what if question is [1,2,1,3,5,6,4] ,   it will eliminate left half and go to right where peak is not there"
-Reversal of a peak is called trough. 30:29
-"int start = 0;
-    int end = n - 1;
-    
-    while (start < end) {
-        int mid = start + (end - start) / 2;
-        
-        if (arr[mid] < arr[mid + 1]) {
-            start = mid + 1;
-        }
-        else {
-            end = mid;
-        }
-    }
-    
-    return start;  (how about this ,easy and covers every edge case)"
-"3:42 at last there are 2 peak elements
+The lyrics
 
-5 and 3"
-Understood boss!!
-thank you
-awesome
-"for this [4,1,2,3,3]?"
-The man who is making every CSE student's career bright
-If we are to return an array of indices where peaks are found(all peak) can we still apply binary search by making some modifications and applying if else checkups. 🤔
-undertsood
-jai ho...
-understood
-Bestest explanation ❤
-"How does this algo works for this test case.
-1 23 2 3 4 5 6 7 8 9
-we would be going for right half because this condition(arr[m-1]>arr[m]) failed.
-I think the question is incorrect."
-understood
-Amazing explanation Striver my man! Hats off to you for all your hard work for the community.
-very good explanation .
-understood
-"Thanks striver I completed all your sheets , like twice , they boost my confidence , before watching your solution , i try every question for 30 mins , and regardless i am able to solve it or not , i watch your video for better understanding and side by side mark improtance of question and make notes for revision"
-NICE SUPER EXCELLENT MOTIVATED
-An amazing question learning new patterns of conditions in binary search
-"Hii Striver , I think if it chooses else part then it will go towards either left part or right one but in the end we will end up having one element as the peak one. Don't understand on that part. Can you please explain this??"
-what happens when mid mid+1 and mid-1 element are same and hence peak can be on any side ? is that test case not included on leetcode where there is only one peak and mid mid+1 and mid-1 are same
-Matrix movie vibes🍿
-US
-Strivers Sir You Are The Best
-Excellent explanation
-Understood !! 😎😎
-"3:27 Here, two peak elements 3 and 5."
-understood
-US!
-Understood
-Didn't even look for completion time of the video!!!.....So that much interesting your videos are❤
-understood
-understood
-"/ 
-    /\        /(mid)
-  /    \    /
-/        \/
-if my mid is in last line i.e increasing so the solution will be like the peak might be coming so it will eliminate left. now there is no peak at right how this is handling this case?"
-"What is the solution for this array {1,2,1,3,5,6,7}. Does this code work on this array with only one peak element. Please answer if anyone know the answer"
-plssssssss sir baki topic ki  bhi videos la do
-understood
-Understood Bhaiya
-Understood
-"after elimination one half how can you say the peak will be present at other half, there is a chance that that peak also present at eliminated half.. anyone can explain.."
-the extra afforts for the edgecases is appreciated! keep working on content like this...
-Understood👍
-Understood
-"Bhaiya your code will not give the correct output for this array nums[]={1,2,0,1,2,3,4,5,6,7}"
-understood
-"what is we have an array [2,2,2] what will be the peak here?"
-Thanks a lot Bhaiya
-BEST!
-Understood🫡
-"Hi Striver, this was an epic explanation. Hats off!
+The looks 
 
-However I think we can only check the left element of mid. If greater then eliminate right. Else eliminate left. No need for the other if condition.
+The cool aura 
 
-class Solution {
-public:
-    int findPeakElement(vector<int>& arr) {
-        
-        int n = arr.size();
-        if(n == 1) return 0;
-        if(arr[0] > arr[1]) return 0;
-        if(arr[n-1] > arr[n-2]) return n-1;
+The nobility 
 
-        int low = 1;
-        int high = n - 2;
-        int mid;
-        
-        while(low <= high){
-            mid = low + (high - low)/2;
-
-            //Peak found
-            if(arr[mid-1] < arr[mid] && arr[mid] > arr[mid+1] )
-                return mid;
-
-            //mid-1 greater than mid, peak on left,eliminate right
-            if(arr[mid-1] > arr[mid]) 
-                high = mid - 1;
-            
-            //peak on right, eliminate left
-            else
-                low = mid + 1;
-        }
-
-        return mid;
-
-    }
-};"
-understood
-understood striver
-can anyone post me the code for 2 peaks
-Understood Striver :)
-at 21:15 correction*  if(arr[o] > arr[1]) return 0; the first index is the peak
-I don't think people can explain like this.
-Your explanation is crazy. You are really doing a very good job.
-"Understood, thank you."
-"How can we print all peak elements? Example - [1, 2, 1, 3, 5, 6, 4] where 2 and 6 are peaks and it only prints 6."
-understood
-US
-"This is the brute linear solution :
-class Solution {
-public:
-    int findPeakElement(vector<int>& nums) {
-        //Brute force:
-        int n = nums.size();
-        int ans = INT_MIN;
-        int peak_index = -1;
-        if(n==1) return 0;
-        for(int i = 0; i < n; i++){
-            if (nums[i] > ans) {
-                ans = nums[i];
-                peak_index = i;
-            }
-        }
-        return peak_index;
-    }
-};"
-"can we simply find the largest and return that index , it will also give the peak😜"
-Amazing explanation! thanks teacher :)
-"Understood,thanks striver for this amazing video."
-"it's a blessing that you are in youtube,  
-but on the other side , people are enjoying DSA now,  hence , competition is drastically increasing too."
-Understood
-understood\
-Understood
-God level ❤‍🔥
-"Firstly the brute force psudeo code will only for:
- 1)  array which has one peak element. 
-2) array is in ascending order
-3) array is in descending order."
-Understood!! :)
-understood
-"while(low < high-1){
-            mid = (low+high)/2;
-            if(arr[mid]>arr[mid+1] && arr[mid]>arr[mid-1]) return arr[mid];
-            if(arr[mid+1]>arr[mid]) low = mid+1;
-            else high = mid-1;
-        }
-        if(arr[low]>arr[high]) return arr[low];
-        else return arr[high];
-initially came up with this solution, it was working and was accepted in leetcode"
-bro u are great...
-Understood
-tq undestood
-"int findpeak(vector<int>& a, int low, int high) {
-  int mid = (low + high) / 2;
-  if (low > high) {
-    return -1;
-  } else if ((a[mid - 1] < a[mid]) && (a[mid] > a[mid + 1])) {
-    return mid;
-  } else if (a[mid] > a[mid-1]) {
-    return findpeak(a, mid + 1, high);
-  } else {
-    return findpeak(a, low, mid - 1);
-  }
-}
-int findPeakElement(vector<int> &a) {
-  int n = a.size();
-  if (n == 0) {
-    return 0;
-  }
-  if (a[0] > a[1]) {
-    return 0;
-  }
-  if (a[n-1] > a[n-2]) {
-    return n-1;
-  }
-  return findpeak(a,1,n - 2);
-}
-
-my code working without change can you tell me why?"
-understood
-understood
-understood
-Understood Striver
-UnderStood 
-Thx you very very much
-Hey To use Binary Search Array should be sorted right but we are not sorting the array
-Understood !!!!!
-understood
-"NO ONE CAN TEACH LIKE STRIVER, HE GIVES HIS 100% to his lectures. he want to teach , he compleltly go into the state of teaching , like with full FOCUS & DEDICATION  . he enjoy to teach . 
-and all of this FREE OF COST          ,  LEGEND AKA RAJ VIKRAMDITYA BHAIYA (STRIVER BHAI OP )
-❤"
-"Hi, your this code gives tle on submission for last test case on code studio platform now"
-Understood
-"00:04 Find the peak element in an array
-02:16 Identifying peak elements using the concept of infinity assumptions.
-06:42 Peak element finding in a sorted array using binary search
-09:03 Binary search to find peak element
-13:59 Identifying peak in decreasing curve
-16:22 Dealing with the cases of the first and last elements as peak elements.
-20:38 Finding peak element in an array using binary search
-22:54 In a decreasing curve, the mid element is greater than the right element.
-27:08 Binary search can efficiently find the peak element
-29:08 Algorithm to find peak element in an array"
-💝
-This code will not find peak if all the array element is same.it may run in a infinte loop.so element must have some different elements so this code will work
-"while going through your tutorial i am just taking hint  for some question  how to  eliminate  left or right  array  rest of the code i am doing myself?
-int findPeakElement(vector<int> &arr) {
-          int n= arr.size();
-         if(n==1){
-             return 0; 
-         }
-         if(arr[0]>arr[1]){
-             return 0;
-         }
-         if(arr[n-1]>arr[n-2]){
-             return n-1;
-         }
-     
-
-     int low =1;
-     int high=n-1;
-     int mid= low+(high-low)/2;
-     while(low<=high){
-          if(arr[mid]>arr[mid-1]&& arr[mid]>arr[mid+1]){
-              return mid;
-          }
-         else  if(arr[mid]>arr[mid-1] && arr[mid]<arr[mid+1] ){//condition  for checking in which slope  and eliminate the array
-              low=mid+1;
-          }
-          else{
-              high=mid-1;
-          }
-          mid= low+(high-low)/2;
-     }
-    
-}
-I can bet this is the best tutorial for  dsa."
-if we give last condition (else high = mid -1;) that will work for both 1 peak element and also multi peak element.
-thanks striver understood everything
-Thank you Bhaiya
-understood
-understood
-Thank you striver 😇🙌
-"There is a problem in this test case 1,5,3,3,2,1,0  and 1,2,3,3,5,1"
-good one
-thanks sir
-Great Playlist . 👍
-Understood
-"If the array contains a continuous peak ,i.e, same values repeating as peak like (1,2,2,1) we can use the condition of (arr[mid]>=arr[mid-1] && arr[mid]>=arr[mid+1]) this will handle a case like this"
-understood
-Love ur apoorach sir 😁
-Kya question samjhaya hai bhai 👍👍👍
-God level content 🥵 🔥🔥
-"this code don't work for input 2,2 
-why?"
-Understood
-god level
-"Understood very well sir!!
-No words for your appeciation bhaiya"
-"Mostly in binary search problems, the main idea is to think about the shrinking logic which comes from various test cases/ edge cases.
-Can anyone tell how to think of diverse and effective edge cases or its just practice?"
-"Will the if condition work for the below scenario: [10 20 30 1 2 3 4 5 6] ? Here the peak lies on the left half, but since a[mid] > a[mid-1] is true, we are eliminating the left half."
-is there any way to find all the peaks using binary??
-i will give you big fat like 👍👍
-Understood
-"Commenting Understood is just a simple thing for your wonderful explanation !!!
-Thank you So much for your lectures Striver"
-you are really great one ..
-"int n=nums.size();
-        if(n==1) return 0;
-        else 
-        {
-            if(nums[0]>nums[1]) return 0;
-            if(nums[n-1]>nums[n-2]) return n-1;
-        }
-        int low=1;
-        int high=n-2;
-        while(low<=high)
-        {
-            int mid=(low+high)/2;
-
-            if(nums[mid]>nums[mid-1] && nums[mid]>nums[mid+1])
-            {
-                return mid;
-            }
-            if(nums[mid]<nums[mid-1])
-            {
-                high=mid-1;
-            }
-            else
-            {
-                low=mid+1;
-            }
-
-        }
-        return -1;"
-"only 49/50 test cases are passing on coding ninjas, does anyone have any idea, why it might be happening?"
-Understood
-understood
-"Thankyou striver, still maintaining that low=m+1 and high =m-1 thing which makes it super easy to understand!!"
-solved by my own thanks a lot Striver Bro keep spreading the knowledge
-What if i want to find the maximum peak element ?
-In the last example peak element will be 3 instead of 5 @3:34
-I was thinking about using binary search but because the array was not sorted I was hesitant
-Understood .best Explanation 👍
-"How about if we have duplicates, then simply do that low++ and high-- ?"
-great great
-understood
-Dude you're a god🙏
-"#include<bits/stdc++.h>
-using namespace std;
-
-int findPeak(int arr[], int n) {
-    int s = 0;
-    int e = n-1;
-    if(n==1) return 0;
-    if(arr[0] >arr[1]) return 0;
-    if(arr[n-1]> arr[n-2]) return n-1;
-    while(s <= e) {
-        int mid = s+(e-s)/2;
-        if(arr[mid] > arr[mid+1] && arr[mid] > arr[mid-1]) {
-            return mid;
-        }
-        else if(arr[s] <= arr[mid]) {
-            s = mid+1;
-        }
-        else{
-            e = mid-1;
-        }
-    }
-}
-
-int main() {
-    int arr[] = {1,2,3,7,1,2};
-    cout<<findPeak(arr, 5);
-    return 0;
-}
-this is running fine to.."
-at the end of video i am just surprised.......understood very clearly.....thankssss a lottttt striver......
-Well understood.
-"What if all the elements are equal..i.e., the same?"
-What if we have to find the maximum peak element out of all peak elements? Can we still do it in O(log  n) ?
-absolute beauty of a question
-"understood, you are BEST !"
-far better than other vedio
-luv the way u teach
-UNDERSTOOD 👌👌👌👌👏👏👏👏
-understood 😇
-understood
-Thank you.
-"This is what is Striver saying about reducing search space from 1 to n-2, else code becomes clumsy :- ( see how long and bad looking my code is!! )
-
-class Solution {
-public:
-    int findPeakElement(vector<int>& nums) {
-        
-        if(nums.size()==1)
-            return 0;
-        
-        int n = nums.size();
-        int lo=0,hi=nums.size()-1;
-        int ans=0;
-        
-        while(lo<=hi)
-        {
-            int mid = lo + (hi-lo)/2;
-            
-            if(mid>0 && mid<n-1)
-            {
-                if(nums[mid]>nums[mid+1] && nums[mid]>nums[mid-1])
-                {
-                    ans=mid;
-                    break;
-                }
-                else if(nums[mid-1]>nums[mid])
-                    hi=mid-1;
-                
-                else
-                    lo=mid+1;
-            }
-            
-            else if(mid==0)
-            {
-                if(nums[0]>nums[1])
-                    ans=0;
-                
-                else
-                    ans=1;
-                
-                break;
-                
-            }
-            
-            else if(mid==n-1)
-            {
-                if(nums[n-1]>nums[n-2])
-                    ans=n-1;
-                
-                else
-                    ans=n-2;
-                
-                break;
-            }
-            
-        }
-        
-        
-        return ans;  
-    }
-};"
-Understood
-But what if we need to find all the peak elements. then linear search is the only option I think 🤔🤔🤔🤔🤔🤔or their any better algo
-Understood
-Striver if we need to find the maximum peek then what we can do?
-Understood!
-Mind blowing video..
-Understood !!!!!!!!!!!!!!!!!!!!!
-understood
-Understood ❤
-Understood . Thanks a lot.
-us
-understood
-"wow, the reversal peak, beautiful"
-understood
-"Hey Striver, Your videos are pure gem. Certainly the best DSA course on the planet. Keep going. God Bless You!"
-Filled with full confidence after watching ur videos.
-Fantastic teaching...!
-Understood
-code accepted on coding ninjus but not leetcode.
-understood
-Understood!!
-Understood!!
-Done
-Understoood👍
-Legendary Boss
-Understood perfectly!!!!
-SUPERBBBB Explanation! Thankyou so much for your great efforts.
-"there is also a brute force approach using stl ....that is we know whatever the case is.... the maximum element of the vector is always a peak element...so we just return the index of the max element....
-int ind = max_element( nums.begin(), nums.end() ) - nums.begin() ;
+The feminity .
 
 
-ig"
-understood
-Thank You Striver..Understood everything🙂
-Minmum peak element??
-Understood! 😁
-shukriya habibi ..
-great content no one teach like this atleast for free
-TO AVOID THAT INFINITE LOOP CONDITION WE CAN JUST CHANGE THE LAST IF CONDITION TO : if(a[mid] < a[mid-1]) { .....} this will prevent the infinite loop
-Understood Sir.👌
-UNDERSTAND LIKE BUTTER
-US
-Understood
-Ap smjhao aur smjh  n aaaye aisa ho he nhi skta h..🙃🙃
-Understood
-Understood Very Well!
-Understood 😊
-Best explanation on the YouTube thank you soo much....each and every second of this video is informative.
-29:20 imp point
-Understood!
-"[1,1,1,1,1,2,1] how this will work for your code"
-understoodddd
-THe last one infinite loop example was very helpful to understand the problems condition clearly.
-3:20 here 3 is also peak
-understood
-Great video sir..thank u for saving us
-bhaiyaa please continue with the playlist placement is coming
-"Hey Striver , the above method did not worked for this array : {1,1,51,2,3,4,5,6,7,7} , it gave ""No Peak""."
-underStood
-here we have to find the maximum element from this array??
-US
-There are one mistake in the code when try solve problem on GFG then not pass all the cases the mistake is if(arr[n-1] >= arr[n-2]) return n-1; // use the equal sign also so that can pass all the cases and thank you so much to provide best content
-"DSA me bhaiyaa aap BAAP ho , ye sayad appko khud nahi pata , Love u bhaiya"
-"it is not working for [1,2,3,1]"
-"understood
-Thank you striver for such an amazing explanation..."
-amazing
-Bhaiya I solved this without seeing the video. Because i have learnt the concepts from your earlier videos. Thanks and LOTS of LOVE.
-understood
-❣️❣️
-what if all of the elements in the array is same?
-understood
-Understood
-@takeUforward What if i need the highest peak.. will this still be working..
-Lovely striver.
-Understood:)
-UNDERSTOOD SIR
-Understood :)
-Understood
-"bhaiiii
-"
-"int peakElement(int a[], int n)
-    {
-       // Your code here
-        if(n==1)
-            return 0;
-        if(a[0]>=a[1])
-            return 0;
-        if(a[n-1]>=a[n-2])
-            return n-1;
-        int low=1;
-        int high=n-2;
-        while(low<=high)
-        {
-            int mid=(low+high)/2;
-            if((a[mid]>=a[mid-1]) && (a[mid]>=a[mid+1]))
-                return mid;
-            else if(a[mid]>a[mid-1])
-                low=mid+1;
-            else
-                high=mid-1;
-        }
-        return -1;
-    }
+I JUST FELL IN LOVE WITH YOUR SONG GIRL .
 
-
-GFG Solution"
-UNDERSTOOD
-Understood
-"iNSTEAD OF ADDING THE LAST CONDITION WE CAN CHANGE THE ABOE CONDITIONS TO :
-             else if (nums[mid] < nums[mid + 1])
-            {
-                low = mid + 1;
-            }
-            else if (nums[mid] < nums[mid - 1])
-            {
-                high = mid - 1;
-            }
-
-COMPLETE CODE:
-class Solution
-{
-public:
-    int findPeakElement(vector<int> &nums)
-    {
-        int n = nums.size();
-        if (n == 1)
-        {
-            return 0;
-        }
-        if (nums[0] > nums[1])
-        {
-            return 0;
-        }
-
-        if (nums[n - 1] > nums[n - 2])
-        {
-            return n - 1;
-        }
-
-        int low = 1;
-        int high = n - 2;
-        while (high >= low)
-        {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] > nums[mid + 1] && nums[mid] > nums[mid - 1])
-            {
-                return mid;
-            }
-            else if (nums[mid] < nums[mid + 1])
-            {
-                low = mid + 1;
-            }
-            else if (nums[mid] < nums[mid - 1])
-            {
-                high = mid - 1;
-            }
-        }
-        return 0;
-    }
-};"
-i have a request...please add this video to the A2Z sheetlist.
-Understood :)
-"heyy striver,You told us like I will provide python code ,but you didn't.."
-UNDERSTOOD
-i have solved these questions already so before but still i watch every video of you because i know there will be something different which ultimately enhance my code writing or intuition skills.
-30:29 valley 🙂
-understood
-How to find no of peaks present in array  using binary search ??
-GOD LEVEL INTUITION AND EXPLANATION STRIVERRR TYSM < 3!!!
-"sir, what will be peak element if all elements in array will be same eg {3,3,3}"
-Understood ❤
-"A small correction, in edge case at 21:30 return 0 would be there."
-Understood
-understood
-"If we change the condition to check middle as
-
-        if arr[middle] < arr[middle - 1]:
-            end = middle - 1
-
-        elif arr[middle] < arr[middle + 1]:
-            start = middle + 1
-
-Then the else part can be avoided"
-US
+❤❤❤"
+🎉wow 😲😲
+"Bom dia torine eu,sou seu fã me manda um oi😍"
+Alan think's 🙏
+Good things is name Alan walker
+❤ MD Mohammad Ali Shamim Bangladesh Facebook page mobiles vivo
+i Like your music
+simply beautiful 🥰
+❤❤❤❤❤❤❤❤❤
+😍😍😍❤❤❤❤❤
+soooooooo beautiful 🤗
+❤very nice 👍
+😂😂❤
+me 2024
+El la descripción del video dice Juan Gabriel
+My I'd cardes two Sim numbers
+Mobiles UTV chanal
+❤ MD Mohammad Ali my I'd cardes name village bugburi panchashar mukturpur munshigonj City mobiles vivo
+❤ MD Mohammad Ali my I'd cardes name village bugburi panchashar mukturpur munshigonj City mobiles vivo company UTV chanal
+❤ MD Mohammad Ali Shamim Bangladesh UTV chanal vivos company mobiles
+Me and my all friends ❤!
+Trop belle 😍❤️😍😍❤️❤️
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤WARTOŚĆ ❤❤❤❤❤❤❤❤❤❤
+😝😝😝😝😝😝😝♥️♥️♥️♥️♥️♥️👋👋👋👋👋👋👋👋👋👋😂😂🤣🤣😂👋😜😝😛😝😝😝😜🤪😜
+Hcgh dghffzs😂😂😂😂🎉🎉😂😂😂🎉🎉😂😂😂❤❤❤❤❤
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉😂😂😂😂😂❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤❤❤❤❤❤❤❤❤
+Penyanyi aslinya
+❤❤❤❤❤❤❤❤❤
+𝗠𝗲𝗲𝗲𝗲𝗲𝗲
+👍
+Sou completamente apaixonado por essa cantora linda ❤❤❤
+A quien levou gusta torine
+from Bangladesh
+😘🌹🌹🌹🌹🌹
+"Beautiful song, both of them are great."
+Hello from Russia
+ดีนิดนะ❤
+❤
+❤
+Who else is ran from tiktok to watch this piece
+Ola.buen.dia.k.ermoso.cantas
+Cuida 🫡
+i love this song
+So nice 👍👍👍❤❤❤❤❤
+سلام  با این  کی انگلیسی  بلد نیستم  با این  اهنگ  حال  میکنی از صداش خیلی دوست  دارم
+Mi a fasz ez??? Blokk
+Ola.a.todos.me.gusta.la.musica
+❤ only Alan
+Canta lindoooo neta
+Beautiful song... 😀
+My living en HONDURAS ❤❤❤
+Who is watching 2025 😁👊🥰
+"SYMPHONIES BEAT BEAUTIFULLY A SONG SO MAGESTIC TO LOVE, THAT MY HEART FLUTTERS LIKE A BIRD IN LOVE ❤❤❤"
+❤
+nice song ❤❤❤
+😊😊😊😊
+https://www.youtube.com/watch?v=4IYEIj8VtHc
+Who is watching in 2024? 😂😂👋
+❤👌
+Porque será que no puedo dejar de ver a esa mujer es tan bella que mis ojos se deslumbran al verla quiero toda mi vida siempre estar biendola es como un ángel tengo una adicción por ella.😍😍
+Чотири співачки і і сі одним голосом співають піздьрш
+Ce i place la Tata. ❤
+Wait for me 🎸🌹🌹🌹🎸🤗
+The voice is amazing
+What a lovely song ❤❤❤❤❤
+Me encanta la musica y esta hermosa la cantante
+😎😎😎🤡🤡🤡
+Bebé berbrbi
+🇦🇷Desde Misiones Argentina!! Escuchando hermosa 🎵🎼
+Parabéns torine você é muito linda
+Lovely voice ❤song amazing 💞
+😍😍😍😍😍😍😍😘😘😍😍😍😘😍
+Nossa você é muito linda e espetacular você tem uma voz suave a sua voz é muito linda de mais parabéns pra você  os seus olhos verdes também é muito lindo você esta de parabéns siga em frente você é muito linda mesmo de verdade você canta muito bem parabéns parabéns pra você eu desejo tudo de bom pra você me ensina a cantar essa música pra mim cantar com você você é de mais as suas mãos são bonitas e perfeitas parabéns pra você😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😘😘😍😍😘😘😍😍😍😘😍😍😍😍😍😍😍😍😍😍😍😘😍😘😎😍😘😍😘😍😘😍😘😍😍😍😍😍
+NNossa que mulher linda eu  estou muito feliz por ver ela você é muito linda princesa meu nome é Paulo  Henrique e qual é o seu nome prazer em conhecer
+Você é muito linda e legal me manda um abraço beijo pra você
+Me passa seu  zap siga em frente minha princesa você tem muitos talentos bonitos você é muito linda o seu olho verde também
+Olá
+🇧🇩🇧🇩🇧🇩💯💯💯❤️❤️❤️
+The best hit 🎯
+Ana afaham anta walat anta himar
+❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥 love
+Torine the best
+Love From Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+❤
+🇧🇩🇧🇩🇧🇩anyone????
 ❤❤❤
-++
-Understood!
-"but how can we get the maximum
- peak element"
-the best about this video was the thinking process of how to arrive from linear to binary search in problems like this. execellent stuff.
-"1:35 In the example arrays listed in this timestamp, I couldn't see a an array like [5,5] where there is no peak element.
-
-23:30 There won't be a peak no matter which array they give even with hypothetical -inf on both ends of  array for the array is a flat line.
-
-26:33 You should have mentioned this in the beginning."
-Bro u are the most helpful person for all engineering  cse student 🧡❤
-"Was trying this for the past 2 days, couldn't solve it. Took 1 day break came back at it again with a fresh mind, could solve it in one go by myself. Thanks, your series instills such confidence in me always."
-"Understood! Super awesome explanation as always, thank you very much for your effort, and congrats for your product launch!! Is this idea used to find the derivative local maximum / minimum?"
-Very well explained. Understood
-"welcome back, waited for you every single day"
-"code for the same :-
- int findPeakElement(vector<int>& arr) {
-        
-         int n = arr.size(); 
-        
-        //checking done for initial cases where finding and is very easy 
-        
-         if(n==1)            //edgecase1
-            return 0;
-        
-        if(arr[0] > arr[1])   //edgecase 2
-            return 0;
-        
-        if(arr[n-1] > arr[n-2])  //edgecase 3 
-            return n-1;
-        
-        
-        
-        // now apply bS on remaining part 
-        
-        int l = 1;
-        int r = n-2;
-       
-    
-      
-        
-       
-        
-        while(l<=r)    
-        {
-            
-            int mid = l +(r-l)/2;
-            
-            
-
-              
-              if(arr[mid]>arr[mid+1] && arr[mid]>arr[mid-1])
-              {
-                  return mid ;
-              }
-            
-              else if  (arr[mid]>arr[mid-1])        //mid on the increasing path that means our ans will be in right side 
-                 l = mid+1;
-               else                                // mid is on the decreasing path  peak will be on left side 
-                  r = mid -1;
-              
-          }
-          
-          
-                
-    
-        
-       
-          return -1;
-            
-        
-        
-        
-    }"
-Tysm first time i got clear cut intution of finding the peak element :) tysm again UNDERSTOOD EVERYTHING:)
-@takeforward thanks
-Understood Dada
+🌹❤️🌹
+Sumbabicc
+I love this song I just heard it for the first time ❤
+Aquí estamos
+ok of you medio My love❤
+"저런거에 열광하는 저 애들은 뭐지..
+노래를 잘 부르는것도아니고...
+그냥 좋아하는건가"
+More than mixed songs 💯🤩😆😉👍😀😁
+Amo
+You BORN or your BOOMS
+RCB❤
+Kashmir❤
+Good job ❤
+Muito Bom!!!!
+🎉🎉🎉🎉🎉
+Otra oportunidad jear common ok
+Love you from India ❤❤
+"Estaba bien alan w..,hasta que lo.fregaron con farruko.es la pira verdad"
+I love you 😍
+Sounds like faded ....nahhh not for me
+Hallo efveryone i from Indonesia 🇮🇩
+peeps who sold their soul for popularity
+Bangladesh🇧🇩🇧🇩🇧🇩🇧🇩❤❤
+Very weldone❤❤
+I love the Brazil
+Most people like this eveint
+🇵🇰
+nice song💖💖💖
+🎉
+El mejor DJ del mundo y la mejor artista del mundo
+❤The girl is beautiful
+this is Titanic song
+✅
+"Greetings from Russia, the city of Vyborg"
+❤️🇩🇪❤️
+Los que ablan inglés el español no lo entienden 😅
+She's my best 🎉🎉🎉🎉
+Here in the US we have never heard of Alan Walker.  I found the music on ticktock and asked the name of the band.  Every time it is AW.  I tend to like euro music more than US pop music.  Hugs from Texas USA.
+Torine for.
+Uzbekistan mazzade 😊😊😊😊
+Việt Nam 🇻🇳🇻🇳
+Aqui no 🇧🇷 escutando essa música ❤
+"The voice, the music and the words - all adorable.. Still my fav 💞💞💞"
+Love you
+အရမ်းကောင်တယ်❤❤❤❤
+Super 🔥🔥🔥 🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹
+Me encanta ésta canción
+I love it this song ❤
+Heart touching song and awesome music 💝.
+9
+"where to get this song in ""good"" quality?"
+I love this song from 🇧🇩 Bangladesh
+Aqui é o Brasil 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+TOP AW
+I love this very song
+Essa menina canta muito
+kocham cię.......
+Much Love🇩🇿❤️🫶🏻
+Guys we cant dance in ua music
+Ammizzing etou xhons 🇩🇿
+라이브가 더 좋다..❤
+ALAN  WALKER abadiy qoladi men uylansam TOʻY   ALAN WALKER 😢
+07/06/2024 🇧🇷😎✌🏻
+"Amo essa música torine, Brasil"
+Alon walker who listens in 2024 😢😢one off I Love this song 😢😢 I miss you we never forget you 😢 2050 we couldn't stop the world from turning 😢😢😢
+𝑻𝒐𝒓𝒊𝒏𝒆 𝒘𝒉𝒂𝒕 𝒂𝒏 𝒂𝒏𝒈𝒍𝒆 𝒗𝒐𝒊𝒄𝒆❤❤❤
+Love from Pakistan 🇵🇰🇵🇰🇵🇰🇵🇰
+Me encanta la música 😍
+Astig  angas  ng  boses
+Alen falker love  ❤
+Me gusta     la  música elektronik    de    la artista  son las mejores❤❤❤
+torine is pure fire!❤
+Luv from Africa ❤
+Faith lutheran church rapid city south Dakota
+magnificent presentation by torine.compliments!!❤
+Ya may is lyes
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤...
+Alan Walker te guê vir aqui nosso país Brasil  sou fã Alou Empresarios
+Zoya yh jasm❤
+I from Indonesia the is very good and touching😊
+Dia de lluvia o es armado..
+é quase uma nostálgico ouvir essa musica...top demais !!
+Torine i love for ever ❤❤❤ extasi voice ❤
+linda!!!!
+🥰🥰🥰
+❤ MD Mohammad Ali my I'd cardes name village bugburi panchashar mukturpur munshigonj City mobiles vivo company mobiles vivo utb chanal Bangladesh
+K❤❤❤
+So kiuat girls ❤❤❤❤
+So kiuat girls ❤❤❤❤
+"https://www.youtube.com/shorts/v9N1MyEiVl0
+ amazing view :)"
+"Johnny from kenya ,so adorable tune ❤"
+I love torine i love ❤❤❤❤
+Love from hongkonh🎉
+Love from India (Bihar)
+С любовью из Башкортостана. ❤Россия.
+Greetings from Ukraine ♥️🇺🇦🇺🇦🇺🇦
+I love Claude for mi
+I loveeeewe
+I loveeeewe
+Desafinada total
+Hermoso
+❤️ love this song from 🇮🇳 india
 ❤❤❤
-was waiting for these past two weeks and you showed up with another awesome explanation! Thanks dada ❤
-bhaia series kbtk complete hogi??
-"Sorry for the delay :( But I had a product launch, for which I had to spend most of my time in the office. I am back, will try to come with 1/2 videos daily now"
-Thank you bhaiya ❤
-Sir please complete as soon as possible please sir 🙏🙏😢
-👍👍👍👍👍
-"Damn, was eagerly waiting for this!!!"
-1st comment
-❤🎉
+This is my favorite song 🎧❤️👍
+❤Excellent
+"❤I’m from Sri Lanka 🇱🇰 
+I need trust love 💗
+I love song 🤞"
+Es mi canción favorita la amo mucho viva Alan wal ker ❤❤❤❤❤🥰🥰🥰🥰🥰💯💯💯🔥🔥🔥🔥🔥
+Суперрр
+I love you❤ alan
+i love this song
+Top
+Alan Walker and his stunning singers
+Realy good 🎉
+Nice song ♥️♥️💯💯
+I like that tone❤❤❤❤❤❤
+I love her song❤❤❤ from Tanzania
+Beautiful musica
+Alan walker memang dari dulu saya suka ❤❤❤❤❤❤musiknya
+❤❤❤🥰👏👏👏🙏🏼🙏🏼🙏🏼😭😭
+Amazing
+The song
+Is beautifull
+❤❤❤❤❤😂
+What a beautiful talented Angel😍🥰🎶📱🎼 this magical🎶📱🎼💕 love this!😊❤
+Wow mindblowing performance
+Me encanta escuchar  tus rolas❤ ke sigas triunfando torine
+Hello Uzbekistan
+She is so beautiful ❤️
+Perfecta music❤
+Music top song
+Vida boa continua né meu amor
+Vc e meu amor sonho vida
+Love ❤Brasil
+Adoro ❤
+Lots of love from 🇮🇳 india
+Nice song. from India...
+"esta si me encanto mucho
+muchísimo"
+musica linda incrível dancei mesmo com 70 anos
+❤❤
+Hello EveryEveryone ❤️ from Bangladesh 🇧🇩 Most love❤️🫶 i love this song❤️
+Love  from Sénégal 🎉🎉
+Hi brother i'm from Mexico but I'm living in USA
+Алан ты красава такой музон только гений пишет.
+Essa música é ótima loto 96
+Love from Pakistan 🇵🇰
+The girl's movements are beautiful and amazing and the best song in my life🇦🇪🇸🇦
+Hello from Papua New Guinea..🇵🇬
+Hellou  Albaniaaaaa 😘❤
+Nicr
+Hi everyone
+Love yuo 🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Love yuo 🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Love from BHARAT 🇮🇳
+Me encantan los temas de alan walker
+❤❤🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷
+Love from uzbekistan the most my favourite song❤
+I like this song jast wow so nice voice ❤
+Love from Zambia❤
+🇸🇾🇸🇾❤️
+I like this  song love Alan Walker
+Very byutifool song nays vois
+Hello i'm from indonesia
+Salve BRASIL 😎
+Super songs I like
+❤
+❤❤❤❤❤
+nice songs ❤️❤️❤️
+"Fake ass song , it killed it when buddy hit the note on the lil board..so really probably not even her singing lol"
+Her name??
+AMOOOOO ❤
+❤❤❤❤❤
+🎉🎉🎉🎉🎉está música e toooop de Os Montanheiros Do Lago Amarelo 💕💕💕💕💕
+❤❤❤❤❤❤❤❤
+❤❤❤❤❤amo está canción 💗🎧😌
+❤❤❤ lets gathr añd shower her cudos❤❤
+Hello friend I am from Pakistan❤
+Hello everyone iam frrom Austrian everybody need visa replay me
+🇵🇰lovli 🎉
+Azərbaycandan hər kəsə salam ✌️🇦🇿✌️
+"try this song: Zahara - THIS IS NOT A POLITICAL SONG
+ https://www.youtube.com/watch?v=Vwg2nouvwQ0"
+"You are the best!!! But also the audience. In a
+nother video everyone was recording with their mobile phones instead of enjoying the concert. What a disgusting people"
+Um abraço para todos os duendes desse mundo!
+Hello everyone from Morocco 🇲🇦🇲🇦
+I am listening from Bangladesh
+im from Bangladesh ❤
+I love ❤ Torine
+Love from Papua New Guinea 🇵🇬 ❤❤❤
+💖💖💖💖💖
+Myanmar
+❤🇦🇿❤
+"Thank you for your beautiful song from Uzbekistan 🇺🇿
+She is so crazy."
+بتشبه الممثله التركيه جولسيام على
+"My table,✌️❌🤙😍"
+Good morning Merry said that ❤
+What’s the name of this girl (singer)?
+I love the song from Zambia 🇿🇲
+Hay uno  de brazil nccomo se llama
+I' like me
+https://youtu.be/dBLe5QW5NVE?si=puwKqhh5KR5lj2Na
+Hallo Everyone from Bangladesh 🇧🇩
+I like very much.  I listen every day.  ❤
+grandissimo Alan
+Is anyone from Uzbekistan ?😅
+🇺🇿🇺🇿🇺🇿🙋
+From srilanka  😍😊
+Adiós
+No
+❤❤❤❤❤❤❤❤❤❤ c'est vraiment émouvant ❤❤❤
+Hi
+🇩🇿🇩🇿🇩🇿❤❤❤
+Hello everyone from Bangladesh
+Wow good sang
+"hy  apa kabar semua,,,,salam jumpa lagi ya teman  teman,,,"
+H❤❤❤❤❤❤❤
+Hello 👋🏼🇸🇩🇸🇩🇸🇩
+Hello guys I'm from Lebanon
+Россия тоже любить умеет❤
+Perfect real song
+I love this song so far
+Parabéns ❤❤🎉🎉🎉😍😍😍😘😘
+"She is Excellent Fantastic Briallnet Amazing, Singer. ❤️"
+Just for fun Belive that
+Wow❤🎉 i love it❤
+Hello boy
+Yes God saves you from heaven we are and we all are you  el que confunde es el hombre extraterre porque del espacio infinito somos
+Amo tu música  y me gustas 💖💖
+Eu.sim.vc.🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+❤I love the song beautiful voice angel from Harold epe of Philippines
+Hello from Pakistan 🇵🇰
+Love From Bangladesh 🇧🇩🇧🇩
+I really love a beautiful voices❤
+Hello bebi
+❤❤❤❤❤🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰
+"I love your voice ❤
+I am from India 🇮🇳 ♥️ 
+My self Pravin ❤
+2024"
+Best wishes from Assam 🎉❤❤❤❤❤❤
+Hey 👋🏻 hello 🤗❤❤❤❤ for you
+🇩🇿❤🇮🇶❤🇵🇸❤🇹🇳😊😊
+I love music
+Love from Pakistan
+❤
+Yo franci ayala amo a esta persona
+🇦🇫🇦🇫🇦🇫🇦🇫🇦🇫🇦🇫🇦🇫♥️♥️♥️♥️♥️♥️🥺🥺🥺🥺
+🇧🇩  Hello
+❤❤❤❤❤❤❤
+Hello🎉
+❤❤
+Juda gōzal VA asal❤
+🇧🇩🇧🇩🇧🇩🇧🇩
+Top 🤩
+Nice great wonderful 🎉🎉🎉🎉
+🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩 I love Alan Walker
+I love this song...from Bangladesh 🇧🇩🇧🇩
+https://youtu.be/8Rh5VLsuYms?si=VIyLd_jHdqpDsTBP
+who noticed de woman don't hav any bad song
+❤❤❤❤❤❤❤❤❤
+😊👏👏👏👏👏👏🇧🇷⚘⚘🌻🌻💖👏👏
+waooo
+Cool Song
+🇧🇷❤️
+Respecty
+❤❤❤🇩🇿🇩🇿🇩🇿
+Soulful music 🖤🎶🎵
+المكان له دور كبير فالشهره
+Samin
+What’s the girl’s name?
+67
+"Torine e linda, e  a voz maravilhosa"
+"A voz  dela e linda, ela estão nem se fala  , o jeitinho dela pelo amor, linda essa mulher"
+Torine's voice amazing 👍 I m from India...
+Wow
+Я из Узбекистана узбекистан Ассалому алейкум
+Best 🇺🇿🇺🇿🇺🇿🇺🇿
+❤you sing beautifully
+"If there is anyone from Bangladesh, stay connected by liking 🇧🇩🇧💓💓"
+amircan Marwa come to praty😂😂😂
+Jessica Karla
+Amizing voice translate this song Tamil IND
+❤❤❤ Hare Krišna 💓🎉🫀❤️‍🔥
+За пультом Абра шо ли
+Great wonderful
+This girl is extremely beautiful
+Hallo Alan Walker  geiler biet bitte bitte bitte kommt nach Vacha ins vachwerk schönen Gruß aus Vacha bei Thüringen in Deutschland
+Wow super mc sg
+Nou ablo inglés pero me gusta esta música 😢
+Me gusta mucho esta música 🌹✌️😢
+❤❤❤❤❤❤❤
+Respect and love for her from pakistan 🇵🇰 ❤️ 😊
+💜eu!💜tu!💜deus !💜sabedoria !💜ao !que !💜nos !💜criou !💜amem!💜lwandro costa
+من يسمعها في سنة 2024/3/17؟
+Hello guys im form bangladesh 🇧🇩🇧🇩
+I like this song ❤❤
+"Woow,pięknie ❤❤❤"
+Only Love....
+Indonesian menyala🎉
+Wow 😅
+La mejor es musica electrónica
+Hermosa voz  de la chica y melodia de alan walker
+6
+How is the name of the singer??
+Great beautiful wonderful 😅😅😅😅😅😅
+I love torine ❤❤❤❤❤❤
+Love frome india ❤❤❤ 🇮🇳🇮🇳🇮🇳
+"I like you song 
+my prom the Bangladesh 🇧🇩"
+Hello I love you  from burundi
+🇺🇿 🇺🇿 🇺🇿 🇺🇿  hello
+👍👉👍 класс концерт
+Love you song Bangladesh 🥰🥰💞💞💞💞💞💞💖💖💖💝💝💓💓💗💗💕💕💕💕💕💕💕💕💕💕💕💕💝💝💝💝💖💝💖💓💞💞💓💞💓💞💞💓💞💓💞💞💓💞💓💞💕💖💕💖💕💞💕💞💞💓💞💓💞💝💞💝💞💞💝💞💝💞💝💖💓💖💓💞💓💞💞💞💓💞💞💗💞💗💞💕💖💖💕💞🥰💞💓💖💓💖💓💞💞💓💞💓💖💓💖💓💖💖💝💖
+🇰🇿🇰🇿🇰🇿 күтеміз😊
+"Bom dia, feliz o ano 2024. Eu sou cá em Moçambique Nampula-Angoche."
+Afg🇦🇫❤️🥳
+❤  🐮 🎱 💰
+👏👏👏👏👏👏
+Torine I Love Your Song Specialy My Dear Allen But You Have Don't My Answer 😢😢😢 Really . Iam Indian. Torine I Love You ♥️ My Wish You are Universe Singer ❤❤❤
+❤❤❤🎉
+Love music 🎶
+I like this
+Beautiful❤❤
+me and 2019 at that time
+Love songs from Iraq❤
+👍❤
+Someone 2024...
+"0:12 - cara não é possível,
+essa mina parece MUITO uma boneca PERFEITAMENTE BEM FEITA,
+que coisa mais linda💕🌹"
+Definitely stunning. Lovin your ambition to succeed in life. What a amazing performance and beauty. Your voice saying it all your killing it gorgeous. Keep chasing your dreams beautiful. 🤘💯🔥♥️🔥💯🤘😮🙃😜😎
+Dé la paz 🇨🇴
+🎉
+💫
+❤❤
+This song will be always Evergreen ❤
+https://www.youtube.com/live/pMiyt2XQwyo?si=BjD8AliP9CEVAxuB DANCE PARTY LIVE
+She has Heart Touching Voice
+Красивая девушка и шикарная песня ❤❤❤
+Haye so süß ❤
+Azərbaycandan hər kəsə salam
+❤🇹🇷🇦🇿❤
+"Esibizione fantastica, bravissimi ❤️"
+❤ho my engal 😢sorry
+🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Lindo !💜cabelos !💜eu !💜tu!💜para !💜a!💜deus !💜encarocolados !💜glorias !💜teu !💜amado !💜cruador !💜Leandro. costa
+👌💌👌🌷🙏🌷💞💖💞🧚‍♀️🎧🎤🎸
+Kochaj  bo wiedz innych zabito w sobie dla ciebie za kasę Ukraino tam Zachód tam WATYKAN maczałmkasę JPIII
+"Just Owasam.
+UK"
+I love this song❤❤❤❤❤
+From living in the Indian vary vary likeness this song❤❤❤❤❤❤❤❤❤❤❤❤❤
+😍😍
+Oxiii e cadê os BR ???
+Wonderful
+"esta canción es muy hermosa, una delicia escuchar todas las mañanas, llena de energía y valentía mi ser, me hace creer que puedo con el universo ."
+Есть за что стоять под дождем круто
+What a song 😊
+I'm there
+BOING !
+🇮🇳🇮🇳🇮🇳
+☺️ Her voice is beautiful and she has a wonderful feeling.🥰🎉👌❤
+"DIGAME.QE.ESTONOES.CENTIMIENTO
+QISIERA.BOLBER.EL.TIENPO"
+Que música linda. Saudações do Brasil 🇧🇷
+🇲🇦🇲🇦🇲🇦
+"My ❤ i loved u sooo  much  , go head baby  ."
+Hace ❤❤❤❤
+Hello everyone from iran🇮🇷🇮🇷
+огонь))))
+👍👍👍✌️✌️✌️😘😘😘🫡🫡🫡🫡🇮🇷🇮🇷🇮🇷🇮🇷 IRAN what is name gir
+❤❤❤❤❤
+Yeah
+Esta mujer es muy bella❤
+💯
+Lindo !💜a!💜deus !💜amem!💜leandro costa
+Solo eres ❤tu mi ángel Cristina❤
+Olove you
+❤ love this song
+Hello everyone from Tadjikistan ✊🔥🔥
+So strong autotune.. 😮‍💨
+🌏😉💐💐💐💐👏👏👏👏👏👏👏👏 muiti  bommm
+"Gracias por tantas canciones que me transportan, gracias a mi amiga especial laro por tantos momentos juntas, no dejarme sola ni en mis peores momentos, hay gente que es especial sin esforzarse y tú lo eres de naturaleza, te amuuuu ❤️"
+Love  frowm  alegria ❤❤❤maravilhoso
+Eye's
+I love ❤ u
+❤
+Linda música ❤
+Ilooooove you bb for aver you and me mi love i Miss you bb ilooooove you yes ilooooove you
+❤ Marvellous ❤
+He a qui que nesecitamos volver al arrepentimiento si es que salvemos la juventud eyos ansean sujetarse de algo donde se sientan seguros de enfrentar los reto s dificeles y peligrosos de la vida los hombres sereis nesesaraio perdonar los unos a los otros y amar a sus mujeres he hijos y la vida que es DIOS DUEÑO DE EL REYNO AMEN AMEN❤❤❤❤❤❤❤❤❤❤❤
+"Чувак, я из Росии, я за тебя и за твои трэки, не сдвайся, Россия любит тебя!!!"
+Really she play for me . Zara
+"❤❤❤❤❤❤ I love you from Romania. I love this live part, I listen to it on repeat"
+"Vilken röst,jag tänkte på mitt ex❤"
+"Excelene Artista una impecable y dulce voz,Torine is beautifull.I love You baby"
+Super song
+Amazing voice good
+Love alan walker music❤
+Kochaj w Kochaniu szanuj siebie wszystkichtomek
+Ruszyliście Prawdę z Plski i Jego mohamed 2012 rok mój Przxyjaciek w Tunezsja 2012 rojk Tunezja Polska Arabeska wspólne dzieło mój Przyjacielu Kocham Ciebie tomek Jaźń
+أحب هاذي الأغنية روعة
+mi canción favorita
+Ruszyłeś mne Życie inni pokaż wam ukażą me Życie mohamed tomek
+Kochaj Życie w sinbie w nas Palestyna wszyscyb w nas na wieki tomek
+Pokój wTobie w nas Wszyskich SOA!!!
+Jesteśmy Pokojem Palestyna wszystkie Narody Ziemia Płaska a zniej w Podziemiach zwą hooliłud wyprodukuwujecie wasze potrzeby statki maria i chrystus to wasze zniewolenie innycgh
+You come Pakistan
+Nice song
+❤‍🔥
+""
+Padre nuestro que estas en los cielos santificado sea tu nombre venga a nosotros tu REYNO agase tu voluntad en en la 🌏  como en lis cielos darlos hoy el pan nuestro de cada di a perdona nuestras deudas así como nosotros perdonamos a nuestros deudores no los dejes caer en tentacion mas libralos del mal por que tuyo es el REYNO y tuyo es el PODER y tuya es la GLORIA por todos los SIGLOS de los SIGLOS AMEN AMEN ❤❤❤❤❤❤❤❤❤❤
+Si mi niña nuestro padre los ama he a qui
+Нравишься.
+Love for you from Vietnamese ❤❤❤
+Arrasou👏👏👏
+Essa é a mais linda
+Krzyk Boga jest w Tobie dla Wszystkich to Polska Rosja Arabesku mój Przyjacielu Jesteś prawdą Tunezja 2012 rok hammamet
+Życie nie przychodzi =ONO jest w was nie w tu i teraz w życiu na cmentarzach ono jak dziecko jest prawdą w nas Pokój wszystkim dla wszystkim jam arabesku sławian polak wszyscy prawi =zrozum swą miłość w sercu odwagą a będziesz Królem Królową w innych dla wszystkich w nas dajesz wędkę są wdzięczni dajesz rybę są zdrajcami i was zniewolą
+Ruszyliście Swiat i mnie tomek putin mohamed jesteśmy potęgą i z nas Serce Życia Wszechświata Ekspoze Dubaj Pokójw nas Wszystkich na tej Ziemi
+Kim jest Życie mna i Tobą mój Rumi na wieki
+"Kocham w Jam Jest do kiedy mój Los i Ty się zespoli z nami wszystkiemi Serca Ducha Duszy Jam Jest wszyscy we Wszystkich Pokój w nas wszystkich wolność Pokój ,więc Jesteśmy w Jam Jest"
+這是什麼地方
+Hi people from Cameroon🇨🇲
+"Tam twe życie , kiedy wejrzysz w siebie tam pokój w nas wszystkich ludziach na tej Ziemi Wszyscy bez końca i początku"
+Love from syria❤
+Iam Indian Assam I love Allen Truele Love Your Song Specialy Torine  I Hope Reply My Comment
+Alan walker
+good❤
+"what a marvelous song ''You Play For Me'' Dear ❤Alan Walker ❤ , Love for you from Pakistan"
+MY..FAVOURITE..SINGER...ILOVE..VOICE...GOOD..SONG
+"Such simple words, but I wonder how much they mean to someone in life"
+2024 love song
+Magnifique ❤❤
+"GGGO PERÚ 
+}"
+Lindíssima 🇵🇹🩷
+❤❤❤❤❤❤❤❤❤
+"Nice song 🎉,    l love you from Comoros Island"
+❤❤❤i thanks 🙏 my sweetheart
+"I love Torine, voice angel the best."
+Robinhood was good
+love from Bangladesh
+J'aime l'Algérie 🇩🇿🇩🇿
+I love so much her voice! she's like an angel voice for real 😂😂😂 I'm very very happy about they're music ❤❤❤❤❤❤
+❤❤❤❤
+I'm from Paraguay🇵🇾saludos desde Paraguai 😊❤🇵🇾
+Palestyna me serce Polska wszyscy w nas SOS!!!
+Me encanta🤩🤩🤩
+Love from Pakistan❤❤❤
+Thick my sister
+Singapore love ❤❤❤❤❤
+"Thank you so much..
+The song very beautiful..."
+"😊🥹🥺🥺🫂😍😍😍🙂🥰🥰🥰😭😭😭😭😭😭🫂🫂🫂unglaublich Musik  ich liebe es echt 
+Aus Afghanistan ❤"
+Love from Bangladesh ❤❤❤🇧🇩🇧🇩
+My..favourite..ilove..singer..super..voice..sister..my..your..very..fan..ilove..musica..Alan..sir..looking..good..singer..my..india..sister
+киргизия
+Am Primus and l ❤ this song best for Pisces and his soul mate Taurus
+"O nome dessa cantora, alguém sabe?????🤔🤔🤔🇧🇷"
+hmm so good voice 😊😊
+🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩SDU
+❤❤❤❤❤❤
+I don't know why I liked this the song but it beautiful
+Hello every one from kashmir
+Galería
+Galería
+Einfach nur geil das lied
+Amizing voice ❤
+❤❤❤❤❤
+👏👏👏🥰🥰🥰 awesome awesome awesome
+Ostatnia gra ujawnienia Masonerii333 stopień z wami koniec SOS!!!!
+😘😘😁😁
+"Incredible voice, Love form india"
+ТЫ МОЯ КРАСАВИЦА❤❤.
+Helo uzbekistan love mi trek
+❤❤❤❤🎉🎉🎉🎉
+🎉🎉
+Kochaj co w Tobie to Miłość w nas Wszystkich w nas od poczęcia do umierania z prawda w sobie bez ich wyuzdzdania -nigdy waszych krzywd doktora mengel Watykanu Ojca JPII pedofila nigdy Jezuity i jego Generała nigdy SOS!!!
+Kochaj Świat tu Jesteśmy wszyscy Haczów 459 brak waszej zgody RODO a ja i my Jestesmy z nimi Haczów 459 -Jestesmy wszyscy cofamy umowy UE WATYKANU umowy USA abouzywne cały nas Świat podpis miliard w nas wolni od WHO
+❤❤❤🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Iove  from iz Dushanbe Tajikistan 🇹🇯🇹🇯🇹🇯🎉🎉🎉
+Aaaa любимая песня respect oт Russian❤
+Love from Algeria 🇩🇿 🥰 ✌
+Умеете отдыхать
+"К вам ,с России хочу"
+AMAMR عمار 🇩🇪🎤🎤🎤🎹🎹🎹🕶🎹🎹🎸🎸🎤🎤🎤🇩🇪🎸🎸🎤🎹🎹🕶🇩🇪
+Nicr❤❤❤🇧🇩🇧🇩🇧🇩🇧🇩
+I love song beautifull
+I love song beautifull
+YES🥀🥀♥️♥️
+GUT ♦️♦️
+SEHR❤❤❤❤❤❤❤♦️♦️♦️👉👉🤛🤛🎋🎋🎋🎋
+Imaginei racionais cantando fume para mim😢
+I am nitto das from Bangladesh 🇧🇩🇧🇩🇧🇩🇧🇩 I love this song❤❤❤
+"Greetings for All kind heart from Orbottyan, Hungary, Pest, Hungary. 🎉"
+#alanamjad
+❤burn heart burn❤
+Tan hermosa como su voz de canto ❤❤❤❤❤
+E uma linda mulher
+❤❤❤
+🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦🇿
+"Этот сингл как батарейка, заряжает нас энергией и просто хорошим настроением!!!"
+Hello from sudan Africa
+💯💯💯
+Я ее тоже полюбил.
+Iam form Bangladesh 🇧🇩🇧🇩❤️❤️
+Average song
+ايه القمر ده يجدعان الواحد لو فضل ببصلها طول حياته ميزهقش منها
+Слава Україні ❤❤❤❤❤❤
+Love song
+Hello everyone in From Bangladesh🎉 🇧🇩🎉
+I like that song it's mi number one song ❤❤❤
+Love ❤
+Nicely with ❤😊😊
+Her voice is perfect for this song
+Music beatifull.... Just like it.. ❤
+My Favourite song❤❤❤
+Świat jest Miłością a mur pomiędzy Polską Białorusią jest waszym grobem Andrzej Duda waszym przekleństwem niech sie tak stanie Ta Ziemia nie zna murów z nami Sławianami zza Oceanu
+Hello a lotes of love from my country nepal ❤
+"My ears :- listening to this music
+my lips :-  Singing along the song
+My eyes :- Seeing comments
+My hands :- scrolling down
+My legs :-  moving in perfect sync with the song
+Yes am in love with this song ❤"
+Torine's  voice 🔥
+Perfect real voice!!!. Same as the original. Congratulations
+Who is she?
+Hello..singer..sister..your..my..favorite..singer..super..voice..super..song. Looking..good..good..musica..Alan..sir
+"Голос, который хочется слушать бесконечно!!!!"
+Hello evryone from chad
+Ai sabe cantar ainda por cima muito alta
+Waw so cute songs and you
+❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌❤‍🔥😝❤‍🔥🙌
+Супер Алена❤❤❤🇹🇲🇹🇲🇹🇲
+She’s body is so perfect
+I like your song ❤🇮🇳🇮🇳🤟
+"Kochaj siebie i bądż prawda w sobie to nie tęcza , lecz ty w niej w Sobie to ty inni niech spierdaqlają ich tecz to syf korporacji dla ko;aboracjim by was zniewolić dodatek do żywności tomek mohamed dorian wszyscy razem na wieki tom"
+🍄🍄🍌🍌🍌🍌
+Como se llama la chica muy guapa por cierto
+Hermosa gracias... 😮😮😊😊😊
+Hello everyone from Bangladesh 🇧🇩🇧🇩🇧🇩🥰❤️
+Mi canción favorita ✨🌌
+privet vse           DUBAY
+Голос потрясающий браво👏👏👏👏👏👏взрыв восторг огонь 🔥🔥🔥🔥🔥🔥👍👍👍👍👍👍спасибо обожаю вокал звучание музыку ❤❤❤❤❤❤❤❤
+Hello everybody from USA
+thats the vibe of AW 
+Hello everyone..from Malaysia..
+What is her real name and where can I find her plz anyone ❤️
+I love this muthadfakka
+Amazing!!!
+Kocham takie panie
+جمالج🥹❤
+Take love from Bangladesh
+"Linda canção , não me canso de ouvir ."
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+My love from syriaaaaaaa🇸🇾🇸🇾❤❤
+Love from Bangladesh 🎉
+Hello to all Azerbaijanis❤🇦🇿❤🇹🇷❤
+Muy excelente la musica😊
+"numpang tanya bang, misal kita ngerakit pc dengan budget yang sama seperti membeli Ps5. mungkin gak PC nya bisa ngejalanin game² yg setara ps5 dengan kelancaran yg sama seperti saat ngejalanin game yg sama di ps5?"
+Bangladesh ❤🇧🇩
+👍😃👉😍💙💚✨✨✨🕺🏻😵✨✨✨👍
+Canta muito🤩
+"Once we played in the garden, now we play in the wine"
+ez igen .😢❤❤❤🎉🎉🎉
+Indonesia🇮🇩
+❤
+❤🤩🤩🤩🤩
+Please come to Armenia one day🥺❤
+красотка
+Hello
+❤❤❤❤😊
+bà chủ hát đây hả 🥰🥰
+😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ feliz por la Mucica
+❤
+Sempre gostei dessa música em todas as versões 😍
+❤linda música
+Algérie 😊
+Hello from Philippines 🇵🇭
+"What a song and STEMMME, takk torine 🌟"
+"You to, three ,four……. Are beautiful between your eares.
+To create this Masterpiece of a song, you have to drive Depp in life.
+I  love you «Guy`s»
+Torine : it was me calling you yesterday
+God Jul og godt Nytt ÅR, til deg Alan og allle rundt dere !!!
+TK"
+❤❤❤
+Palestyna me Serce Duch z Polski to my wszyscy Palestyna to Lach Pokój me Serce Duch Dusza Polska Palestyna Wszyscy razem Palestyna nasze Serca wszystkich na zawsze Jesteśmy w tym piekle na wieki nasz Pokój Wolność Palestyna
+Hello everyone from Iraq
+Zoʻr
+Love from Bangladesh 🇧🇩🇧🇩
+E ya es mi futura esposa te amo beba
+João Pessoa 🇧🇷🤟👏👏👏💆🎛️🎚️🎧🕺♥️
+😢🇲🇦🇵🇸☹️♥️
+espectacular AW y la hermosa Torine🥰
+Voz mais  top do mundo
+Awesome 💯
+This singer name
+Gratulacje głos słowa słowa tylko
+Hello from pakistan ..❤❤
+🎼❤️😍😍😍🎼❤️🎶💜 Beautiful musique
+Uns dos melhores do mundo 🗺..
+"I am from Yemen and my heart is Palestinian♥️
+✌🏼🇾🇪🇵🇸🇾🇪🇵🇸🇾🇪🇵🇸🇾🇪🇵🇸🇾🇪😘"
+Hello im from morocco 🎉🇺🇸🇲🇦💖
+Hello😊
+Love this voice from Afghanistan🇦🇫
+hello everyone from Bangladesh 🎉❤
+El logo de Alan walker es dela élite de los masones
+Helo is🇷🇺rossi vsem lubvi shastij loviu🇷🇺🎄🥺🥺🥺☺️☺️☺️🤩🤩🤩🌹🌹🌹🌹🌹
+Super tillsammans 👍
+🇲🇽😻🇲🇽
+Who is the singer
+"In fact, not everyone likes to be played with, maybe I don't understand something🤔"
+como se llama la cantante que hermosa vos
+Hello everyone from Azərbayjan 🇦🇿🇹🇷
+🇦🇿🇦🇿🇦🇿🇦🇿🇹🇷🇹🇷🇹🇷🇹🇷
+Hello I am from Bangladesh 🇧🇩
+Sexeh music
+Nam w Polsce nie Palestyna z hujownią na czele i z Andrzejem Duda na czele z sektą Chabat Lubawicz nigdy SOS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Aki é o Brazil porra 🇧🇷
+Chiunque abbia fatto l'arrangiamento è un genio
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤❤
+Hello everyone from Bangladesh 🇧🇩🇧🇩🇧🇩
+🌸🌸💗💗🌿🌿🌿😆
+Blora cepu hadir mase❤❤❤❤
+Nice ❤❤❤❤❤ m7siknya jos
+😃😀😆😁💗
+Oʻzbekiston dan salomlar
+😃☺️😊😁💗💞😆😀😃😁
+Wow 🎉Very beautiful rendition!^~^
+💯💯💯
+Torine is a smash😂
+Top level music 🎶🗜🌟❤👌
+you play for me 
+Love from Bangladesh torine🇧🇩🇧🇩🇧🇩🇧🇩
+I love Torino's voice so very much❤
+Zawszed Palestyna Polska Arabesku gasimy Memorę SOS111SOS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Привет ты мне должна песню!
+✌️🇭🇹✌️
+caramba esse som contagia a gente muito lindo parábéns  a todos envouvidos na produção
+😘😘😘😘😘😘👍
+i like it 🥰❤️‍🔥
+👏👏👏👏👏😘
+Привет  передаю Узбекистан❤❤❤
+Very nice
+تحيه من اليمن  ايش اسم الفنانه
+"The rain won't dampen the crowd's spirit. Beautiful song, beautiful singer."
+so wow so joos
+I love.Torine
+Can I see what's new live?
+nice one
+Dimais musica muito linda
+File the song ❤ India
+বাংলাদেশ থেকে ভালোবাসা
+♥️♥️♥️♥️♥️
+ese  es  el  sencey   de la  electronica
+Best song💥Kyrgyzstan🇰🇬👍
+I❤- songs is My favaret songs🇧🇩🇧🇩🇧🇩🇧🇩
+🏋️
+super Polska
+i love this song..❤❤❤
+AIan Walker Iive 4K Torine Play With subtitIes💙💚💜🖤🎤🎶🎹❤❤❤❤
+This song i lke
+Love this song from PNG ❤
+Saludos ala cantante  por su  linda vos❤❤❤❤
+im 🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Ce mour 🇷🇼🇷🇼🇷🇼🇷🇼
+Show show Alan Walker se Deus me permitir ainda irei no seu show parabéns que Deus abençoe sempre
+❤❤❤🇮🇩🇮🇩🇮🇩
+Love from Uzbekistan 🇺🇿
+i love torines vois❤❤
+Hello everyone from turkey❤
+❤❤❤
+Respect😘
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤
+Love from Bangladesh 🇧🇩
+Hii everyone from INDIA❤❤🎉
+Hello everyone i'm from Bangladesh 🇧🇩
+And i love si song
+Hello i am from Bangladesh 💚💚💚💚💚
+🇪🇨🇪🇨🇪🇨🇪🇨🇪🇨🥇
+Lovely song 🎵💕  fil the song 😍
+❤
+Q voz maravilhosa perfeito showwww ❤❤
+Love you a song and ritmos 😊❤
+Me encata la cancion de amor ...
+I love that phone man
+You're not as complicated the other person was
+Like from Ladakh India ❤
+❤❤❤❤❤❤❤❤❤
+❤❤❤❤❤❤
+❤❤❤
+Torine best voice!!
+❤❤❤
+Like you so much torine❤❤❤❤😊
+Love song from India 🇮🇳❤❤❤
+❤❤❤❤❤🎉🎉🎉🎉🎉🎉😊😊😊😊😊
+❤️❤️Nice
+tu tem fome!
+I feel like I'm back in 2019.❤😢😢
+I love Alan Walker and this Nordic girl.❤❤
+Love this
+Piękny utwór głos dziewczyny idealnie wkomponowany u muzykę.♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️
+"have to give this a listen at least once a day..
+an i swear on everything holy that it has nothing to do with Torine being an absolute goddess 😇..
+uh huh 😉"
+Good song
+Ist der Hit 👍👍👍👍👍👍
+فلسطين عربية🇵🇸🇵🇸🇵🇸
+❤I love song  Bangladesh❤🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Me Enamoré de torine🤩
+Hello everyone from Armenia ✌🏼🇦🇲✌🏼
+"Girou,Kante carin Benzema ❤❤"
+❤❤❤красивая релакс
+"However, play for me and you play for me?"
+All Love from alaen walker❤
+🍉🍉🍉🍉🍉
+Класс 🎉
+SUPER!!! 🌲🌲🌲
+No se entiende absolutamente nada su pronunciación
+I love Torine's voice ❤
+Это волшебное использование!!!!❤❤❤❤❤
+💃💃💃💃👍🏻👍🏻song👍🏻👍🏻👏🏻💃💃👋🏻💃🇰🇿🇰🇿🇰🇿
+Wowww beautiful voice And songs 👍👍👍 ❤❤❤❤❤
+What a good performance❤🎉
+😊👍👍👍🙏👏👏👏👏🌹❤️❤️❤️❤️
+Love vocalis
+❤❤❤🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Ela é uma gata preciosa e linda uma voz incrível essa gatinha cantou muito bem😢😢❤❤❤😢
+Love songs From Bangladesh 🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩
+Musica massa demais! E melhor de tudo...em 4K. Like👍👏
+What's her name ?
+Fair and Perfect
+вся музыка одна и та же толька инструменты меняются и больше ничего
+❤❤❤❤❤
+Beautifu song❤❤❤❤
+❤❤❤❤❤love !!!
+❤❤❤❤❤❤❤❤❤
+Excellent Video.
+Nikt nie pobije .... blondyny..ta pierwsza będzie zawsze nr.1😊😊 ..jest The best....pozdro...😊
+Torine🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰
+I like your all videos ❤ love from Pakistan 🥰
+everyday nigt play this song 🍂🇧🇩🇧🇩🇧🇩🍂
+🥰🥰🥰😘😘😘😍😍😍😍😍
+Beautiful voice of angel 😇🌹💖💖
+❤❤❤❤🎶🎶🎶🎶🙏
+❤❤❤❤❤❤
+Got a beautiful voice torine
+❤❤❤❤
+❤❤❤
+Iove music ❤❤❤❤ Woooow 🎉🎉🎉
+❤@!.*
+Я тебя люблю❤😘❤😘❤😘❤😘
+Ваауу😊😊😊
+:)
+I love Torine
+Tem fomi   eu tem fomiiiiii
+"this is soooooo FCKIN GOOD .. 
+fckin love this, wish i was there to see this shit live mang...
+wowwwza's 😲
+
+that bridge gave me goose bumps mang..  fck me silly 🤪🤪"
+Very good songs l like Torine
+"Please deliver my message
+Aieza Ahmed khan niazi
+lives in DC America"
+❤❤❤❤❤
+"Buenas tardes
+🌥
+18/10/23
+Madrid"
+تشبه لنوميديا حسبتها هي فالأول لي جزائري يخبط جاام
+Love from Bangladesh ❤❤
+Very good songs 🔊::🎶🎶✨✨
+Super melodi Love ❤❤
+Amazingsong❤️❤️👍👍❤️👍👍 love form India 🇮🇳
+My favourite song of Alan Walker 💯🥀🤝love.from India🇮🇳🫂❤️
+Thickness
+Essa música e linda e a cantora mais ainda❤😊
+красивая
+❤❤❤❤
+Go ahead got it girl 👧
+I loved it 😊 😊😊 do it girl 👧
+Who is this young lady
+😮🎉🎉🎉meeeeega 👍 👍 👍
+Oo por favor que hermosa voz y por supuesto qué melodía preciosa muy díficil que venga por suramericana por mí colombia del alma sería super ❤❤❤❤❤🎉🎉🎉
+Все мелодии похожи на одну никакого разнообразия
+❤❤❤❤❤
+So beautiful voice 😍😍😍😍 i like you
+😢
+Wonderful song❤
+J adore
+Она милая😅
+Кто ты?!?
+Torine 🎉
+Amazing ❤❤❤❤❤🎉
+Wow😮❤❤❤
+Не могу никак найти полную версию концерта! Может кто подскажет? Буду признателен!!! Заранее спасибо😍
+Magnifique ma chanson préférée 👍🥰❤️🎸🔥.
+I love this song❤
+❤❤❤❤
+Srdce u mají zákop kde je základ kopej .
+Kolikrát sebe vidíš sam sebe neuvidíš .
+🎉
+Love ALAN WALKER ❤
+❤ 1:02 🎉❤️🤞🫰💪🤟
+""
+❤💕👌🇩🇿
+🎉
+❤❤❤❤❤🎉
+❤🎉😎🤟
+❤❤❤❤
+Amazing video keep performing 🎉🎉🎉
+Where can I find the full live performance?
+Love this ❤
+That’s amazing! Let’s be friends?
+❤❤❤❤❤❤🇪🇦
+Amazing song 🎉🎉🎉🎉❤
+*0:27** 🎹🎹🎹*
+❤❤❤
+Gyönyörű ❤❤😊
+Best!! good! video  thx!
+I see that it was raining; so many people wearing ponchoes xD But not even the rain can stop them from playing play
+❤❤❤❤❤❤
+❤❤🥰
+Love Alan Walker music ❤😍
+"MAY YOUR PLEASURE Mr.Allan Walker My Request Happy Birthday song for my dear Best Friend Mr.Keanu Charles Reaves, may i dear friend Allan Walker. thank you so much Love for kindness and your Pleasure for us."
+The quality of this video has been digitally improved to 4K. I hope you like it (4K quality only available after the premiere).
+❤❤❤
